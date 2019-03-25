@@ -21,6 +21,33 @@
 		.reveal section code {
 			color: red;
 		}
+
+		footer {
+			text-align: center;
+			/* background: #f1c40f; */
+		}
+
+		footer button {
+			/* width: 15rem; */
+			/* width: 75%; */
+			height: 3rem;
+			border: 0;
+			margin: 1rem auto;
+			padding-left: 2rem;
+			padding-right: 2rem;
+			border-radius: 0.5rem;
+			background: #ecf0f1;
+			color: #34495e;
+			font-size: 2em;
+			font-family: 'Helvetica Neue', Helvetica, Verdana;
+			text-shadow: 0px 2px 2px #ced2d3;
+			-moz-box-shadow: 0 20px 30px -20px #290000;
+			-webkit-box-shadow: 0 20px 30px -20px #290000;
+			box-shadow: 0 20px 30px -20px #290000;
+			-webkit-transition: all 0.2s;
+			-moz-transition: all 0.2s;
+			transition: all 0.2s;
+		}
 	</style>
 
 	<!-- Printing and PDF exports -->
@@ -40,9 +67,16 @@
 			</section>
 		</div>
 	</div>
+	<footer id="footer">
+		<section class="download">
+			<button>https://nndkhoa.github.io/ptudw/d05/</button>
+		</section>
+	</footer>
 
 	<script src="../../lib/js/head.min.js"></script>
 	<script src="../../js/reveal.js"></script>
+	<script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script src="../../plugin/footer-reveal/footer-reveal.min.js"></script>
 
 	<script>
 		// More info about config & dependencies:
@@ -53,7 +87,7 @@
 			// parallaxBackgroundImage: 'http://www.artchiz.com/wp-content/uploads/2013/08/parallax-background.png',
 			// parallaxBackgroundHorizontal: 100,
 			// parallaxBackgroundVertical: 50,
-			center: true,
+			center: false,
 			history: true,
 			transition: 'slide',
 			dependencies: [
@@ -62,6 +96,11 @@
 				{ src: '../../plugin/notes/notes.js', async: true },
 				{ src: '../../plugin/highlight/highlight.js', async: true, callback: function () { hljs.initHighlightingOnLoad(); } }
 			]
+		});
+
+		$('footer').footerReveal({
+			shadow: false,
+			zIndex: -101
 		});
 	</script>
 </body>

@@ -1,0 +1,23 @@
+{
+  "name": "footer-reveal",
+  "main": "footer-reveal.js",
+  "homepage": "http://iainandrew.github.io/footer-reveal/",
+  "authors": [
+    "Iain Andrew",
+    "https://github.com/IainAndrew"
+  ],
+  "description": "A jQuery plugin for easy implementation of the 'fixed/reveal' footer effect.",
+  "keywords": [
+    "jquery",
+    "footer",
+    "parallax"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
