@@ -69,7 +69,7 @@
 	</div>
 	<footer id="footer">
 		<section class="download">
-			<button>https://nndkhoa.github.io/ptudw/d05/</button>
+			<button>loading...</button>
 		</section>
 	</footer>
 
@@ -97,6 +97,15 @@
 				{ src: '../../plugin/highlight/highlight.js', async: true, callback: function () { hljs.initHighlightingOnLoad(); } }
 			]
 		});
+
+		$(function () {
+			var url = window.location.href;
+			var idx = url.lastIndexOf('#');
+			if (idx > -1) {
+				url = url.substring(0, idx);
+			}
+			$('button', 'footer').html(url);
+		})
 
 		$('footer').footerReveal({
 			shadow: false,
