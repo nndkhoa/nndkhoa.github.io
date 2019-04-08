@@ -1,0 +1,31 @@
+.reveal section img {
+  border: none;
+}
+
+.reveal section code {
+  color: red;
+}
+
+.reveal section table {
+  font-size: 22pt;
+}
+
+.reveal section.smallTable table {
+  font-size: 20pt;
+}
+
+.reveal section.lw2 tr td:first-child {
+  width: 20%;
+}
+
+.reveal section.lw3 tr td:first-child {
+  width: 30%;
+}
+
+.reveal section.lw4 tr td:first-child {
+  width: 40%;
+}
+
+.left {
+  text-align: left;
+}
