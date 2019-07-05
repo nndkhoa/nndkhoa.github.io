@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Scoresheets</title>
+  <!-- <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css"> -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+  <div class="container h-100 mt-3 mb-3">
+    <div class="row h-100 justify-content-center">
+      <div class="col-sm-12">
+        <div class="card shadow">
+          <div class="card-header">
+            <h5>Điểm môn học
+              <span class="text-primary">Phát triển ứng dụng Web</span>
+              <span class="text-danger">TH2016/33</span>
+              <span class="float-right text-muted">Giảng viên: ThS. Ngô Ngọc Đăng Khoa</span>
+            </h5>
+          </div>
+          <div class="card-body">
+            <table id="myTable" class="table table-bordered table-hover">
+              <thead class="bg-success text-light">
+                <tr>
+                  <td>Sinh viên</td>
+                  <td>&nbsp;</td>
+                  <td>∑</td>
+                  <td>IA01</td>
+                  <td>IA02</td>
+                  <td>IA03</td>
+                  <td>GK</td>
+                  <td>CK</td>
+                  <td class="font-weight-bold">ƒ</th>
+                </tr>
+              </thead>
+            </table>
+          </div>
+          <div class="card-footer text-muted">
+            Khoa Công nghệ Thông tin - Đại học Khoa học Tự nhiên TP.HCM
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+  <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+
+  <script>
+    $(function () {
+      $('#myTable').DataTable({
+        // paging: false,
+        // ordering: false,
+        // info: false,
+        // scrollY: '400px',
+        // scrollCollapse: true,
+        order: [
+          [0, 'asc']
+        ],
+        pageLength: 50,
+        lengthMenu: [
+          [20, 50, 100, -1], [20, 50, 100, 'Tất cả']
+        ],
+        language: {
+          emptyTable: 'Không có dữ liệu.',
+          zeroRecords: 'Không có dữ liệu.',
+          lengthMenu: 'Số lượng sinh viên: _MENU_',
+          loadingRecords: 'Đang tải...',
+          processing: 'Đang xử lý...',
+          search: 'Tìm kiếm:',
+          paginate: {
+            // first: 'Đầu',
+            // last: 'Cuối',
+            next: 'Sau',
+            previous: 'Trước'
+          },
+          info: 'Sinh viên _START_-_END_ trên tổng số _TOTAL_ sinh viên.',
+          infoEmpty: '',
+          infoFiltered: "(trên tổng số _MAX_ sinh viên)"
+        },
+        ajax: 'data.json',
+        deferRender: true,
+        columns: [
+          { data: 'Sinh viên' },
+          { data: 'Họ Tên' },
+          { data: '∑' },
+          { data: 'IA01' },
+          { data: 'IA02' },
+          { data: 'IA03' },
+          { data: 'GK' },
+          { data: 'CK' },
+          {
+            data: 'ƒ',
+            // render: function (data, type, row) {
+            //   return '<span class="font-weight-bold">' + data + '</span>';
+            // }
+          }
+        ],
+        createdRow: function (row, data, index) {
+          if (data['ƒ'] < 4.5) {
+            $('td', row).eq(8).addClass('cell-highlight');
+          }
+        }
+      });
+    });
+  </script>
+</body>
+
+</html>
