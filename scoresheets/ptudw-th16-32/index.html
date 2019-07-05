@@ -25,6 +25,9 @@
             </h5>
           </div>
           <div class="card-body">
+            <div class="alert alert-primary" role="alert">
+              Nhập <b>MSSV</b> vào ô <b>Tìm kiếm</b> để xem điểm.
+            </div>
             <table id="myTable" class="table table-bordered table-hover">
               <thead class="bg-success text-light">
                 <tr>
@@ -56,13 +59,19 @@
   <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
 
   <script>
+    var DEFAULT_SEARCH_TERM = '_';
+
     $(function () {
-      $('#myTable').DataTable({
+      var table = $('#myTable').DataTable({
         // paging: false,
         // ordering: false,
         // info: false,
         // scrollY: '400px',
         // scrollCollapse: true,
+        // deferLoading: true,
+        search: {
+          search: DEFAULT_SEARCH_TERM
+        },
         order: [
           [0, 'asc']
         ],
@@ -88,7 +97,7 @@
           infoFiltered: "(trên tổng số _MAX_ sinh viên)"
         },
         ajax: 'data.json',
-        deferRender: true,
+        // deferRender: true,
         columns: [
           { data: 'Sinh viên' },
           { data: 'Họ Tên' },
@@ -109,6 +118,27 @@
           if (data['ƒ'] < 4.5) {
             $('td', row).eq(8).addClass('cell-highlight');
           }
+        }
+      });
+
+      // $('#myTable').on('search.dt', function () {
+      //   var value = $('.dataTables_filter input').val();
+      //   console.log(value);
+      // });
+
+      $('.dataTables_filter input').unbind().keyup(function () {
+        var value = $(this).val();
+
+        if (value === '^$') {
+          table.search('').draw(); // searchAll
+        }
+
+        if (value.length === 0) {
+          table.search(DEFAULT_SEARCH_TERM).draw();
+        }
+
+        if (value.length >= 7) {
+          table.search(value).draw();
         }
       });
     });
