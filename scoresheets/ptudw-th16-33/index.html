@@ -18,10 +18,10 @@
       <div class="col-sm-12">
         <div class="card shadow">
           <div class="card-header">
-            <h5>Điểm môn học
-              <span class="text-primary">Phát triển ứng dụng Web</span>
-              <span class="text-danger">TH2016/33</span>
-              <span class="float-right text-muted">Giảng viên: ThS. Ngô Ngọc Đăng Khoa</span>
+            <h5 id="title">Điểm môn học
+              <span id="subj" class="text-primary"></span>
+              <span id="class" class="text-danger"></span>
+              <span id="lecturer" class="float-right text-muted"></span>
             </h5>
           </div>
           <div class="card-body">
@@ -45,7 +45,11 @@
             </table>
           </div>
           <div class="card-footer text-muted">
-            Khoa Công nghệ Thông tin - Đại học Khoa học Tự nhiên TP.HCM. Cập nhật ngày <b>8/7/2019</b>.
+            Khoa Công nghệ Thông tin - Đại học Khoa học Tự nhiên TP.HCM.
+            <span class="float-right font-italic font-weight-light">
+              Cập nhật ngày
+              <span id="lastUpdate"></span>
+            </span>
           </div>
         </div>
       </div>
@@ -60,10 +64,19 @@
 
   <script>
     var DEFAULT_SEARCH_TERM = '_';
+    var DATA_PATH = 'data.json?v=0.2';
+    var FINAL_COL = 'Final';
 
     $(function () {
+      $.getJSON(DATA_PATH, function (data) {
+        $('#subj').html(data.subj);
+        $('#class').html(data.class);
+        $('#lecturer').html(data.lecturer);
+        $('#lastUpdate').html($('<b>').append(data.lastUpdate));
+      });
+
       var table = $('#myTable').DataTable({
-        // paging: false,
+        paging: false,
         // ordering: false,
         // info: false,
         // scrollY: '400px',
@@ -92,30 +105,31 @@
             next: 'Sau',
             previous: 'Trước'
           },
-          info: 'Sinh viên _START_-_END_ trên tổng số _TOTAL_ sinh viên.',
+          // info: 'Sinh viên _START_-_END_ trên tổng số _TOTAL_ sinh viên.',
+          info: '<b>_TOTAL_</b> sinh viên.',
+          infoFiltered: 'Trên tổng số <b>_MAX_</b> sinh viên.',
           infoEmpty: '',
-          infoFiltered: "(trên tổng số _MAX_ sinh viên)"
         },
-        ajax: 'data.json',
+        ajax: DATA_PATH,
         // deferRender: true,
         columns: [
           { data: 'MSSV' },
-          { data: 'Họ Tên' },
-          { data: '+' },
-          { data: 'IA01' },
-          { data: 'IA02' },
-          { data: 'IA03' },
-          { data: 'GK' },
-          { data: 'CK' },
+          { data: 'Họ Tên', 'orderable': false },
+          { data: '+', 'orderable': false },
+          { data: 'IA01', 'orderable': false },
+          { data: 'IA02', 'orderable': false },
+          { data: 'IA03', 'orderable': false },
+          { data: 'GK', 'orderable': false },
+          { data: 'CK', 'orderable': false },
           {
-            data: 'Final',
+            data: FINAL_COL,
             // render: function (data, type, row) {
             //   return '<span class="font-weight-bold">' + data + '</span>';
             // }
           }
         ],
         createdRow: function (row, data, index) {
-          if (data['ƒ'] < 4.5) {
+          if (data[FINAL_COL] < 4.5) {
             $('td', row).eq(8).addClass('cell-highlight');
           }
         }
@@ -131,14 +145,13 @@
 
         if (value === '^$') {
           table.search('').draw(); // searchAll
+          return;
         }
 
-        if (value.length === 0) {
-          table.search(DEFAULT_SEARCH_TERM).draw();
-        }
-
-        if (value.length >= 7) {
+        if (value.length === 7) {
           table.search(value).draw();
+        } else {
+          table.search(DEFAULT_SEARCH_TERM).draw();
         }
       });
     });
