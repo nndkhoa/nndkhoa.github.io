@@ -1,8 +1,44 @@
 {
   "subj": "Phát triển ứng dụng Web",
   "class": "TH2016/32",
-  "lecturer": "Giảng viên: ThS. Ngô Ngọc Đăng Khoa",
+  "lecturer": "GV: ThS. Ngô Ngọc Đăng Khoa",
   "lastUpdate": "8/7/2019",
+  "cols": [
+    {
+      "data": "MSSV"
+    },
+    {
+      "data": "Họ Tên",
+      "orderable": false
+    },
+    {
+      "data": "+",
+      "orderable": false
+    },
+    {
+      "data": "IA01",
+      "orderable": false
+    },
+    {
+      "data": "IA02",
+      "orderable": false
+    },
+    {
+      "data": "IA03",
+      "orderable": false
+    },
+    {
+      "data": "GK",
+      "orderable": false
+    },
+    {
+      "data": "CK",
+      "orderable": false
+    },
+    {
+      "data": "Final"
+    }
+  ],
   "data": [
     {
       "MSSV": 1312271,

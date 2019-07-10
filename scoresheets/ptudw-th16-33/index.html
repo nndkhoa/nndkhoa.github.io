@@ -6,46 +6,40 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Scoresheets</title>
-  <!-- <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css"> -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <!-- <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css"> -->
+  <!-- <link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.1.5/css/fixedHeader.dataTables.min.css"> -->
+  <!-- <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.dataTables.min.css"> -->
   <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.1.5/css/fixedHeader.bootstrap4.min.css">
+  <!-- <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap4.min.css"> -->
   <link rel="stylesheet" href="../style.css">
 </head>
 
 <body>
   <div class="container h-100 mt-3 mb-3">
     <div class="row h-100 justify-content-center">
-      <div class="col-sm-12">
+      <div class="col">
         <div class="card shadow">
           <div class="card-header">
-            <h5 id="title">Điểm môn học
+            <h5 id="title">
+              <span class="d-none d-lg-inline">Điểm môn học</span>
               <span id="subj" class="text-primary"></span>
               <span id="class" class="text-danger"></span>
-              <span id="lecturer" class="float-right text-muted"></span>
+              <span id="lecturer" class="d-none d-lg-inline float-right text-muted"></span>
             </h5>
           </div>
           <div class="card-body">
             <div class="alert alert-primary" role="alert">
-              Nhập <b>MSSV</b> vào ô <b>Tìm kiếm</b> để xem điểm.
+              Nhập <b>MSSV</b> vào ô <b>Tìm kiếm</b> để tra cứu.
             </div>
-            <table id="myTable" class="table table-bordered table-hover">
-              <thead class="bg-success text-light">
-                <tr>
-                  <td>MSSV</td>
-                  <td>Họ Tên</td>
-                  <td>+</td>
-                  <td>IA01</td>
-                  <td>IA02</td>
-                  <td>IA03</td>
-                  <td>GK</td>
-                  <td>CK</td>
-                  <td class="font-weight-bold">Final</th>
-                </tr>
-              </thead>
-            </table>
+            <div class="table-responsive">
+              <table id="myTable" class="table table-bordered table-hover"></table>
+            </div>
           </div>
           <div class="card-footer text-muted">
-            Khoa Công nghệ Thông tin - Đại học Khoa học Tự nhiên TP.HCM.
+            <span class="d-inline d-sm-none">FIT-HCMUS</span>
+            <span class="d-none d-sm-inline">Khoa CNTT - Đại học Khoa học Tự nhiên TP.HCM.</span>
             <span class="float-right font-italic font-weight-light">
               Cập nhật ngày
               <span id="lastUpdate"></span>
@@ -61,101 +55,10 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
   <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
-
-  <script>
-    var DEFAULT_SEARCH_TERM = '_';
-    var DATA_PATH = 'data.json?v=0.2';
-    var FINAL_COL = 'Final';
-
-    $(function () {
-      $.getJSON(DATA_PATH, function (data) {
-        $('#subj').html(data.subj);
-        $('#class').html(data.class);
-        $('#lecturer').html(data.lecturer);
-        $('#lastUpdate').html($('<b>').append(data.lastUpdate));
-      });
-
-      var table = $('#myTable').DataTable({
-        paging: false,
-        // ordering: false,
-        // info: false,
-        // scrollY: '400px',
-        // scrollCollapse: true,
-        // deferLoading: true,
-        search: {
-          search: DEFAULT_SEARCH_TERM
-        },
-        order: [
-          [0, 'asc']
-        ],
-        pageLength: 50,
-        lengthMenu: [
-          [20, 50, 100, -1], [20, 50, 100, 'Tất cả']
-        ],
-        language: {
-          emptyTable: 'Không có dữ liệu.',
-          zeroRecords: 'Không có dữ liệu.',
-          lengthMenu: 'Số lượng sinh viên: _MENU_',
-          loadingRecords: 'Đang tải...',
-          processing: 'Đang xử lý...',
-          search: 'Tìm kiếm:',
-          paginate: {
-            // first: 'Đầu',
-            // last: 'Cuối',
-            next: 'Sau',
-            previous: 'Trước'
-          },
-          // info: 'Sinh viên _START_-_END_ trên tổng số _TOTAL_ sinh viên.',
-          info: '<b>_TOTAL_</b> sinh viên.',
-          infoFiltered: 'Trên tổng số <b>_MAX_</b> sinh viên.',
-          infoEmpty: '',
-        },
-        ajax: DATA_PATH,
-        // deferRender: true,
-        columns: [
-          { data: 'MSSV' },
-          { data: 'Họ Tên', 'orderable': false },
-          { data: '+', 'orderable': false },
-          { data: 'IA01', 'orderable': false },
-          { data: 'IA02', 'orderable': false },
-          { data: 'IA03', 'orderable': false },
-          { data: 'GK', 'orderable': false },
-          { data: 'CK', 'orderable': false },
-          {
-            data: FINAL_COL,
-            // render: function (data, type, row) {
-            //   return '<span class="font-weight-bold">' + data + '</span>';
-            // }
-          }
-        ],
-        createdRow: function (row, data, index) {
-          if (data[FINAL_COL] < 4.5) {
-            $('td', row).eq(8).addClass('cell-highlight');
-          }
-        }
-      });
-
-      // $('#myTable').on('search.dt', function () {
-      //   var value = $('.dataTables_filter input').val();
-      //   console.log(value);
-      // });
-
-      $('.dataTables_filter input').unbind().keyup(function () {
-        var value = $(this).val();
-
-        if (value === '^$') {
-          table.search('').draw(); // searchAll
-          return;
-        }
-
-        if (value.length === 7) {
-          table.search(value).draw();
-        } else {
-          table.search(DEFAULT_SEARCH_TERM).draw();
-        }
-      });
-    });
-  </script>
+  <script src="https://cdn.datatables.net/fixedheader/3.1.5/js/dataTables.fixedHeader.min.js"></script>
+  <!-- <script src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script> -->
+  <!-- <script src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap4.min.js"></script> -->
+  <script src="app.js?v=1.0"></script>
 </body>
 
 </html>
