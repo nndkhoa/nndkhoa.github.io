@@ -61,20 +61,24 @@ var setupTable = function (table_element, columns, data) {
     fixedHeader: true,
   });
 
-  $('.dataTables_filter input').unbind().keyup(function () {
-    var value = $(this).val().trim();
+  $('.dataTables_filter input').unbind()
+    .focus(function () {
+      $(this).val('');
+    })
+    .keyup(function () {
+      var value = $(this).val().trim();
 
-    if (value === '^$') {
-      table.search('').draw(); // searchAll
-      return;
-    }
+      if (value === '^$') {
+        table.search('').draw(); // searchAll
+        return;
+      }
 
-    if (value.length >= 6) {
-      table.search(value).draw();
-    } else {
-      table.search(DEFAULT_SEARCH_TERM).draw();
-    }
-  });
+      if (value.length >= 7) {
+        table.search(value).draw();
+      } else {
+        table.search(DEFAULT_SEARCH_TERM).draw();
+      }
+    });
 }
 
 $(function () {
