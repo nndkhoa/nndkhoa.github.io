@@ -1,4 +1,4 @@
-var DATA_PATH = 'data.json?v=0.3';
+var DATA_PATH = 'data.json?v=0.4';
 var DEFAULT_SEARCH_TERM = 'Mã NV (7 ký tự)';
 
 var getLangConfig = function () {
@@ -73,8 +73,8 @@ var setupTable = function (table_element, columns, data) {
         return;
       }
 
-      if (value.length >= 7) {
-        table.search(value).draw();
+      if (value.length >= 4) {
+        table.rows().search('\\b' + value + '\\b', true, false).draw();
       } else {
         table.search(DEFAULT_SEARCH_TERM).draw();
       }
