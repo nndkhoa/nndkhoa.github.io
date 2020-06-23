@@ -1,0 +1,580 @@
+{
+  "subj": "Các công nghệ lập trình hiện đại",
+  "class": "18HCB",
+  "lecturer": "GV: ThS. Ngô Ngọc Đăng Khoa",
+  "lastUpdate": "23/06/2020",
+  "cols": [
+    {
+      "data": "MSSV"
+    },
+    {
+      "data": "Họ Tên",
+      "orderable": false
+    },
+    {
+      "data": "GK",
+      "orderable": false
+    },
+    {
+      "data": "CK",
+      "orderable": false
+    },
+    {
+      "data": "Final"
+    }
+  ],
+  "data": [
+    {
+      "MSSV": 1642023,
+      "Họ Tên": "Nguyễn Thanh Hùng",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 1742003,
+      "Họ Tên": "Phạm Văn Bằng",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 1742011,
+      "Họ Tên": "Võ Nguyễn Anh Duy",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 1742011,
+      "Họ Tên": "Võ Nguyễn Anh Duy",
+      "GK": 8,
+      "CK": 7,
+      "∑": 7.4,
+      "Final": 7.5
+    },
+    {
+      "MSSV": 1742033,
+      "Họ Tên": "Võ Tấn Mảnh",
+      "GK": 9,
+      "CK": 9,
+      "∑": 9,
+      "Final": 9
+    },
+    {
+      "MSSV": 1742052,
+      "Họ Tên": "Đào Văn Quyết",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 1742053,
+      "Họ Tên": "Đào Văn Quyết",
+      "GK": "",
+      "CK": 3,
+      "∑": 1.8,
+      "Final": 2
+    },
+    {
+      "MSSV": 18242082,
+      "Họ Tên": "Đặng Ngọc Vũ",
+      "GK": 9,
+      "CK": 3,
+      "∑": 5.4,
+      "Final": 5.5
+    },
+    {
+      "MSSV": 18424002,
+      "Họ Tên": "Nguyễn Thái Anh",
+      "GK": 7,
+      "CK": 7,
+      "∑": 7,
+      "Final": 7
+    },
+    {
+      "MSSV": 18424003,
+      "Họ Tên": "Lê Tuấn Anh",
+      "GK": 10,
+      "CK": 10,
+      "∑": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18424004,
+      "Họ Tên": "Bùi Xuân Bách",
+      "GK": 10,
+      "CK": 8.5,
+      "∑": 9.1,
+      "Final": 9
+    },
+    {
+      "MSSV": 18424006,
+      "Họ Tên": "Lý Gia Bảo",
+      "GK": 10,
+      "CK": 8.5,
+      "∑": 9.1,
+      "Final": 9
+    },
+    {
+      "MSSV": 18424008,
+      "Họ Tên": "Trần Minh Bảo",
+      "GK": 10,
+      "CK": 10,
+      "∑": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18424009,
+      "Họ Tên": "Dương Dủ Bân",
+      "GK": 10,
+      "CK": 10,
+      "∑": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18424014,
+      "Họ Tên": "Hà Thị Mỹ Chi",
+      "GK": 10,
+      "CK": 9.5,
+      "∑": 9.7,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424015,
+      "Họ Tên": "Phan Huy Cường",
+      "GK": 8,
+      "CK": 9,
+      "∑": 8.6,
+      "Final": 8.5
+    },
+    {
+      "MSSV": 18424016,
+      "Họ Tên": "Trần Quang Cường",
+      "GK": 8,
+      "CK": 9,
+      "∑": 8.6,
+      "Final": 8.5
+    },
+    {
+      "MSSV": 18424017,
+      "Họ Tên": "Lê Đức Danh",
+      "GK": 10,
+      "CK": 10,
+      "∑": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18424018,
+      "Họ Tên": "Nguyễn Minh Duy",
+      "GK": 10,
+      "CK": 9,
+      "∑": 9.4,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424019,
+      "Họ Tên": "Võ Minh Duy",
+      "GK": 10,
+      "CK": 9,
+      "∑": 9.4,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424021,
+      "Họ Tên": "Vũ Phương Hoài Đan",
+      "GK": 10,
+      "CK": 8.5,
+      "∑": 9.1,
+      "Final": 9
+    },
+    {
+      "MSSV": 18424022,
+      "Họ Tên": "Nguyễn Huy Đạt",
+      "GK": 10,
+      "CK": 10,
+      "∑": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18424023,
+      "Họ Tên": "Hà Tiến Đạt",
+      "GK": 10,
+      "CK": 9,
+      "∑": 9.4,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424024,
+      "Họ Tên": "Huỳnh Văn Hậu",
+      "GK": 10,
+      "CK": 9,
+      "∑": 9.4,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424025,
+      "Họ Tên": "Trương Châu Hiền",
+      "GK": 10,
+      "CK": 9,
+      "∑": 9.4,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424026,
+      "Họ Tên": "Trần Hoàng Hiệp",
+      "GK": 7,
+      "CK": 7,
+      "∑": 7,
+      "Final": 7
+    },
+    {
+      "MSSV": 18424027,
+      "Họ Tên": "Nguyễn Xuân Hiếu",
+      "GK": 6.5,
+      "CK": 7,
+      "∑": 6.8,
+      "Final": 7
+    },
+    {
+      "MSSV": 18424028,
+      "Họ Tên": "Lê Mạnh Hổ",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 18424030,
+      "Họ Tên": "Đặng Thị Như Huỳnh",
+      "GK": 10,
+      "CK": 8.5,
+      "∑": 9.1,
+      "Final": 9
+    },
+    {
+      "MSSV": 18424031,
+      "Họ Tên": "Thái Quang Khải",
+      "GK": 7,
+      "CK": 7,
+      "∑": 7,
+      "Final": 7
+    },
+    {
+      "MSSV": 18424032,
+      "Họ Tên": "Trần Quốc Khải",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 18424033,
+      "Họ Tên": "Võ Lê Bảo Khiêm",
+      "GK": 10,
+      "CK": 8.5,
+      "∑": 9.1,
+      "Final": 9
+    },
+    {
+      "MSSV": 18424034,
+      "Họ Tên": "Huỳnh Anh Khoa",
+      "GK": 6.5,
+      "CK": 7,
+      "∑": 6.8,
+      "Final": 7
+    },
+    {
+      "MSSV": 18424035,
+      "Họ Tên": "Bùi Đăng Khoa",
+      "GK": 10,
+      "CK": 9,
+      "∑": 9.4,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424037,
+      "Họ Tên": "Trần Văn Khuê",
+      "GK": 10,
+      "CK": 10,
+      "∑": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18424038,
+      "Họ Tên": "Nguyễn Thế Lợi",
+      "GK": 9,
+      "CK": 3,
+      "∑": 5.4,
+      "Final": 5.5
+    },
+    {
+      "MSSV": 18424040,
+      "Họ Tên": "Lê Hoàng Luật",
+      "GK": 6.5,
+      "CK": 7,
+      "∑": 6.8,
+      "Final": 7
+    },
+    {
+      "MSSV": 18424041,
+      "Họ Tên": "Nguyễn Trần Nhật Minh",
+      "GK": 10,
+      "CK": 9.5,
+      "∑": 9.7,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424042,
+      "Họ Tên": "Huỳnh Quang Minh",
+      "GK": 8,
+      "CK": 7.5,
+      "∑": 7.7,
+      "Final": 7.5
+    },
+    {
+      "MSSV": 18424043,
+      "Họ Tên": "Trần Hữu Nghĩa",
+      "GK": 10,
+      "CK": 9,
+      "∑": 9.4,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424044,
+      "Họ Tên": "Trịnh Quôc Nghiêm",
+      "GK": 7,
+      "CK": 7,
+      "∑": 7,
+      "Final": 7
+    },
+    {
+      "MSSV": 18424045,
+      "Họ Tên": "Phạm Ánh Nguyệt",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 18424046,
+      "Họ Tên": "Phan Thành Nhân",
+      "GK": 8,
+      "CK": 7.5,
+      "∑": 7.7,
+      "Final": 7.5
+    },
+    {
+      "MSSV": 18424047,
+      "Họ Tên": "Nguyễn Trung Nhân",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 18424048,
+      "Họ Tên": "Phạm Hửu Nhơn",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 18424049,
+      "Họ Tên": "Đặng Hoài Phong",
+      "GK": 10,
+      "CK": 9,
+      "∑": 9.4,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424050,
+      "Họ Tên": "Nguyễn Minh Phong",
+      "GK": 10,
+      "CK": 9.5,
+      "∑": 9.7,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424051,
+      "Họ Tên": "Đỗ Duy Phương",
+      "GK": 10,
+      "CK": 8.5,
+      "∑": 9.1,
+      "Final": 9
+    },
+    {
+      "MSSV": 18424052,
+      "Họ Tên": "Phùng Văn Quang",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 18424053,
+      "Họ Tên": "Phan Văn Quân",
+      "GK": 9,
+      "CK": 3,
+      "∑": 5.4,
+      "Final": 5.5
+    },
+    {
+      "MSSV": 18424054,
+      "Họ Tên": "Ngô Ngọc Qúy",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 18424056,
+      "Họ Tên": "Nguyễn Tấn Sang",
+      "GK": 9.5,
+      "CK": 9.5,
+      "∑": 9.5,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424057,
+      "Họ Tên": "Nguyễn Hoàng Sơn",
+      "GK": 8,
+      "CK": 9,
+      "∑": 8.6,
+      "Final": 8.5
+    },
+    {
+      "MSSV": 18424058,
+      "Họ Tên": "Nguyễn Dương Minh Tâm",
+      "GK": 9.5,
+      "CK": 9.5,
+      "∑": 9.5,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424059,
+      "Họ Tên": "Phan Minh Tâm",
+      "GK": 10,
+      "CK": 10,
+      "∑": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18424060,
+      "Họ Tên": "Nguyễn Mạnh Tấn",
+      "GK": 9,
+      "CK": 9,
+      "∑": 9,
+      "Final": 9
+    },
+    {
+      "MSSV": 18424061,
+      "Họ Tên": "Phạm Quốc Thái",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 18424062,
+      "Họ Tên": "Hoàng Minh Thanh",
+      "GK": 10,
+      "CK": 10,
+      "∑": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18424064,
+      "Họ Tên": "Trần Thị Ngọc Thắm",
+      "GK": 10,
+      "CK": 10,
+      "∑": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18424065,
+      "Họ Tên": "Nguyễn Đào Hữu Thắng",
+      "GK": 10,
+      "CK": 10,
+      "∑": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18424066,
+      "Họ Tên": "Võ Như Thiết",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 18424068,
+      "Họ Tên": "Nguyễn Thái Hưng Thịnh",
+      "GK": 8.5,
+      "CK": 9,
+      "∑": 8.8,
+      "Final": 9
+    },
+    {
+      "MSSV": 18424069,
+      "Họ Tên": "Nguyễn Văn Thịnh",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 18424070,
+      "Họ Tên": "Nguyễn Lâm Chí Thông",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 18424071,
+      "Họ Tên": "Trần Minh Tiến",
+      "GK": "",
+      "CK": "",
+      "∑": 0,
+      "Final": 0
+    },
+    {
+      "MSSV": 18424073,
+      "Họ Tên": "Ngô Văn Tôn",
+      "GK": 10,
+      "CK": 9.5,
+      "∑": 9.7,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18424074,
+      "Họ Tên": "Nguyễn Cao Minh Trí",
+      "GK": 8.5,
+      "CK": 9,
+      "∑": 8.8,
+      "Final": 9
+    },
+    {
+      "MSSV": 18424077,
+      "Họ Tên": "Ngụy Minh Trọng",
+      "GK": 8.5,
+      "CK": 9,
+      "∑": 8.8,
+      "Final": 9
+    },
+    {
+      "MSSV": 18424080,
+      "Họ Tên": "Nguyễn Thị Linh Vi",
+      "GK": 8.5,
+      "CK": 9,
+      "∑": 8.8,
+      "Final": 9
+    }
+  ]
+}
