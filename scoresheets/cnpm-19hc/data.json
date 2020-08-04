@@ -1,0 +1,675 @@
+{
+  "subj": "Nhập môn Công nghệ phần mềm",
+  "class": "19HCB",
+  "lecturer": "GV: ThS. Ngô Ngọc Đăng Khoa",
+  "lastUpdate": "4/8/2020",
+  "cols": [
+    {
+      "data": "MSSV"
+    },
+    {
+      "data": "Họ Tên",
+      "orderable": false
+    },
+    {
+      "data": "+",
+      "orderable": false
+    },
+    {
+      "data": "Report",
+      "orderable": false
+    },
+    {
+      "data": "App",
+      "orderable": false
+    },
+    {
+      "data": "LT",
+      "orderable": false
+    },
+    {
+      "data": "TK"
+    }
+  ],
+  "data": [
+    {
+      "MSSV": 1742069,
+      "Họ Tên": "Đặng Văn Thường",
+      "+": 2,
+      "Report": 9,
+      "App": 9,
+      "LT": "",
+      "TK": 0
+    },
+    {
+      "MSSV": 18424005,
+      "Họ Tên": "",
+      "+": 0,
+      "Report": "",
+      "App": "",
+      "LT": 4.5,
+      "TK": 2
+    },
+    {
+      "MSSV": 18424013,
+      "Họ Tên": "Nguyễn Ngọc Châu",
+      "+": 2,
+      "Report": 8,
+      "App": 8,
+      "LT": 5.5,
+      "TK": 7
+    },
+    {
+      "MSSV": 18424040,
+      "Họ Tên": "Lê Hoàng Luật",
+      "+": 2,
+      "Report": 8,
+      "App": 8,
+      "LT": 7,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424001,
+      "Họ Tên": "Lê Vũ Bảo",
+      "+": 2,
+      "Report": 0,
+      "App": 0,
+      "LT": 8.5,
+      "TK": 3.5
+    },
+    {
+      "MSSV": 19424002,
+      "Họ Tên": "Phạm Quan Tiến Dũng",
+      "+": 4,
+      "Report": 9,
+      "App": 9,
+      "LT": "",
+      "TK": 0
+    },
+    {
+      "MSSV": 19424003,
+      "Họ Tên": "Hồ Trung Hiếu",
+      "+": 10,
+      "Report": 6,
+      "App": 8,
+      "LT": 8,
+      "TK": 8
+    },
+    {
+      "MSSV": 19424004,
+      "Họ Tên": "Nguyễn Hồng Kỳ",
+      "+": 4,
+      "Report": 7,
+      "App": 7,
+      "LT": 7,
+      "TK": 7
+    },
+    {
+      "MSSV": 19424005,
+      "Họ Tên": "Lâm Thành Long",
+      "+": 2,
+      "Report": 8,
+      "App": 8,
+      "LT": 8,
+      "TK": 8
+    },
+    {
+      "MSSV": 19424006,
+      "Họ Tên": "Võ Xuân Thái",
+      "+": 8,
+      "Report": 6.5,
+      "App": 9,
+      "LT": 7.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 19424007,
+      "Họ Tên": "Nguyễn Hoàng Anh Thư",
+      "+": 2,
+      "Report": 9,
+      "App": 10,
+      "LT": 6.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 19424008,
+      "Họ Tên": "Võ Thái Minh Tuệ",
+      "+": 4,
+      "Report": 9,
+      "App": 9,
+      "LT": 9,
+      "TK": 9
+    },
+    {
+      "MSSV": 19424009,
+      "Họ Tên": "Huỳnh Xuân Viên",
+      "+": 2,
+      "Report": 8,
+      "App": 0,
+      "LT": 8,
+      "TK": 6
+    },
+    {
+      "MSSV": 19424010,
+      "Họ Tên": "TRẦN QUỐC VƯƠNG",
+      "+": 6,
+      "Report": 9,
+      "App": 9,
+      "LT": 9,
+      "TK": 9
+    },
+    {
+      "MSSV": 19424011,
+      "Họ Tên": "Lê Hoàng Anh",
+      "+": 6,
+      "Report": 0,
+      "App": 0,
+      "LT": 5.5,
+      "TK": 3
+    },
+    {
+      "MSSV": 19424012,
+      "Họ Tên": "Nguyễn Hoàng Bảo",
+      "+": 0,
+      "Report": 8.5,
+      "App": 8.5,
+      "LT": 9.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 19424013,
+      "Họ Tên": "Phan Văn Bất",
+      "+": 0,
+      "Report": 8.5,
+      "App": 8,
+      "LT": 7,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424014,
+      "Họ Tên": "Nguyễn Đình Bình",
+      "+": 4,
+      "Report": 9,
+      "App": 9,
+      "LT": 6,
+      "TK": 8
+    },
+    {
+      "MSSV": 19424015,
+      "Họ Tên": "Dương Trọng Đức",
+      "+": 2,
+      "Report": 8,
+      "App": 0,
+      "LT": 6.5,
+      "TK": 5.5
+    },
+    {
+      "MSSV": 19424016,
+      "Họ Tên": "Trần Tiến Dũng",
+      "+": 2,
+      "Report": 8,
+      "App": 8,
+      "LT": 7.5,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424017,
+      "Họ Tên": "Trương Tiến Dũng",
+      "+": 0,
+      "Report": 8.5,
+      "App": 8.5,
+      "LT": "",
+      "TK": 0
+    },
+    {
+      "MSSV": 19424018,
+      "Họ Tên": "Huỳnh Trường Giang",
+      "+": 0,
+      "Report": 8.5,
+      "App": 8.5,
+      "LT": 8.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 19424019,
+      "Họ Tên": "Đỗ Phụng Hảo",
+      "+": 0,
+      "Report": 0,
+      "App": 0,
+      "LT": 6.5,
+      "TK": 2.5
+    },
+    {
+      "MSSV": 19424020,
+      "Họ Tên": "Lương Vĩ Hiền",
+      "+": 2,
+      "Report": 9,
+      "App": 9,
+      "LT": 9,
+      "TK": 9
+    },
+    {
+      "MSSV": 19424021,
+      "Họ Tên": "Nguyễn Thái Hiệp",
+      "+": 6,
+      "Report": 6,
+      "App": 8,
+      "LT": 8.5,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424022,
+      "Họ Tên": "Lưu Đức Hòa",
+      "+": 0,
+      "Report": 8.5,
+      "App": 8,
+      "LT": 8.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 19424023,
+      "Họ Tên": "Nguyễn Hiếu Trung Hòa",
+      "+": 4,
+      "Report": 0,
+      "App": 0,
+      "LT": 6,
+      "TK": 3
+    },
+    {
+      "MSSV": 19424024,
+      "Họ Tên": "Nguyễn Phúc Lợi",
+      "+": 2,
+      "Report": 9,
+      "App": 8.5,
+      "LT": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 19424025,
+      "Họ Tên": "Võ Thành Long",
+      "+": 2,
+      "Report": 6,
+      "App": 6,
+      "LT": 8.5,
+      "TK": 7
+    },
+    {
+      "MSSV": 19424026,
+      "Họ Tên": "Nguyễn Quang Minh",
+      "+": 0,
+      "Report": 0,
+      "App": 0,
+      "LT": 7,
+      "TK": 3
+    },
+    {
+      "MSSV": 19424027,
+      "Họ Tên": "Huỳnh Trung Nghĩa",
+      "+": 0,
+      "Report": 8.5,
+      "App": 8,
+      "LT": "",
+      "TK": 0
+    },
+    {
+      "MSSV": 19424029,
+      "Họ Tên": "Đinh Hồng Ngọc",
+      "+": 6,
+      "Report": 7,
+      "App": 7,
+      "LT": 7.5,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424030,
+      "Họ Tên": "Tạ Thị Yến Nhi",
+      "+": 2,
+      "Report": 7,
+      "App": 7,
+      "LT": 9,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424031,
+      "Họ Tên": "Nguyễn Thị Oanh",
+      "+": 2,
+      "Report": 8.5,
+      "App": 7.5,
+      "LT": 6.5,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424032,
+      "Họ Tên": "Nguyễn Tấn Phát",
+      "+": 0,
+      "Report": 7.5,
+      "App": 1,
+      "LT": 6,
+      "TK": 5
+    },
+    {
+      "MSSV": 19424033,
+      "Họ Tên": "Huỳnh Đức Phong",
+      "+": 2,
+      "Report": 8.5,
+      "App": 7.5,
+      "LT": 5.5,
+      "TK": 7
+    },
+    {
+      "MSSV": 19424034,
+      "Họ Tên": "Phạm Quốc Phong",
+      "+": 6,
+      "Report": 9,
+      "App": 9,
+      "LT": 5,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424035,
+      "Họ Tên": "Đặng Xuân Phụng",
+      "+": 2,
+      "Report": 8.5,
+      "App": 8.5,
+      "LT": 5.5,
+      "TK": 7
+    },
+    {
+      "MSSV": 19424036,
+      "Họ Tên": "Khổng Mai Phương",
+      "+": 10,
+      "Report": 9,
+      "App": 9,
+      "LT": 6,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 19424037,
+      "Họ Tên": "Nguyễn Minh Quân",
+      "+": 2,
+      "Report": 8,
+      "App": 0,
+      "LT": 6.5,
+      "TK": 5.5
+    },
+    {
+      "MSSV": 19424038,
+      "Họ Tên": "Phạm Văn Sanh",
+      "+": -1,
+      "Report": 4,
+      "App": 6,
+      "LT": 7,
+      "TK": 5.5
+    },
+    {
+      "MSSV": 19424039,
+      "Họ Tên": "Đỗ Duy Tân",
+      "+": -2,
+      "Report": 4,
+      "App": 6,
+      "LT": 1.5,
+      "TK": 3
+    },
+    {
+      "MSSV": 19424040,
+      "Họ Tên": "Hà Đức Tần",
+      "+": 8,
+      "Report": 6.5,
+      "App": 9,
+      "LT": 6.5,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424041,
+      "Họ Tên": "Nguyễn Quốc Thắng",
+      "+": 8,
+      "Report": 6.5,
+      "App": 9,
+      "LT": 6,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424042,
+      "Họ Tên": "Trần Văn Thanh",
+      "+": -2,
+      "Report": 4,
+      "App": 6,
+      "LT": 2.5,
+      "TK": 3.5
+    },
+    {
+      "MSSV": 19424043,
+      "Họ Tên": "Lê Chí Thành",
+      "+": 0,
+      "Report": 7.5,
+      "App": 1,
+      "LT": 8,
+      "TK": 6
+    },
+    {
+      "MSSV": 19424044,
+      "Họ Tên": "Nguyễn Mai Thi",
+      "+": 2,
+      "Report": 8.5,
+      "App": 8.5,
+      "LT": 6,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424045,
+      "Họ Tên": "Trần Hoàng Ngọc Thiên",
+      "+": 0,
+      "Report": 7.5,
+      "App": 1,
+      "LT": 7.5,
+      "TK": 6
+    },
+    {
+      "MSSV": 19424046,
+      "Họ Tên": "Trần Minh Thiện",
+      "+": 6,
+      "Report": 8,
+      "App": 8,
+      "LT": 6.5,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424047,
+      "Họ Tên": "Võ Nguyễn Minh Thông",
+      "+": 0,
+      "Report": 8.5,
+      "App": 8,
+      "LT": 6.5,
+      "TK": 7
+    },
+    {
+      "MSSV": 19424048,
+      "Họ Tên": "Nguyễn Văn Thưởng",
+      "+": 4,
+      "Report": 9,
+      "App": 8.5,
+      "LT": 7.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 19424049,
+      "Họ Tên": "Nguyễn Thị Thanh Thuỷ",
+      "+": 2,
+      "Report": 9,
+      "App": 9,
+      "LT": 6.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 19424050,
+      "Họ Tên": "Quách Đình Tiến",
+      "+": 10,
+      "Report": 7,
+      "App": 7,
+      "LT": 9,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 19424051,
+      "Họ Tên": "Đặng Mai Tính",
+      "+": 2,
+      "Report": 9,
+      "App": 10,
+      "LT": 5.5,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424052,
+      "Họ Tên": "Hài Minh Bảo Toàn",
+      "+": 8,
+      "Report": 6,
+      "App": 8,
+      "LT": 6,
+      "TK": 7
+    },
+    {
+      "MSSV": 19424053,
+      "Họ Tên": "Nguyễn Minh Trí",
+      "+": 0,
+      "Report": 8.5,
+      "App": 8,
+      "LT": 7,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424054,
+      "Họ Tên": "Nguyễn Hữu Trọng",
+      "+": 2,
+      "Report": 9,
+      "App": 10,
+      "LT": 5,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424055,
+      "Họ Tên": "Trần Minh Trọng",
+      "+": 2,
+      "Report": 0,
+      "App": 0,
+      "LT": 7,
+      "TK": 3
+    },
+    {
+      "MSSV": 19424056,
+      "Họ Tên": "Phạm Quốc Trung",
+      "+": 4,
+      "Report": 8,
+      "App": 8,
+      "LT": 5.5,
+      "TK": 7
+    },
+    {
+      "MSSV": 19424057,
+      "Họ Tên": "Tống Nguyễn Hoàng Trung",
+      "+": 0,
+      "Report": 8,
+      "App": 8,
+      "LT": 5,
+      "TK": 6.5
+    },
+    {
+      "MSSV": 19424058,
+      "Họ Tên": "Nguyễn Nhật Trường",
+      "+": 2,
+      "Report": 8,
+      "App": 8,
+      "LT": 7.5,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424059,
+      "Họ Tên": "Lê Thanh Tú",
+      "+": 0,
+      "Report": 8.5,
+      "App": 8,
+      "LT": 6.5,
+      "TK": 7
+    },
+    {
+      "MSSV": 19424060,
+      "Họ Tên": "BÙI NGUYỄN TƯỜNG",
+      "+": 0,
+      "Report": 8,
+      "App": 8,
+      "LT": 6,
+      "TK": 7
+    },
+    {
+      "MSSV": 19424061,
+      "Họ Tên": "Nguyễn Ngọc Phương Uyên",
+      "+": 2,
+      "Report": 8.5,
+      "App": 8.5,
+      "LT": 8,
+      "TK": 8
+    },
+    {
+      "MSSV": 19424062,
+      "Họ Tên": "Phan Thành Vĩ",
+      "+": 2,
+      "Report": 7,
+      "App": 7,
+      "LT": 9,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 19424063,
+      "Họ Tên": "Trần Tuấn Việt",
+      "+": 2,
+      "Report": 9,
+      "App": 8.5,
+      "LT": 7,
+      "TK": 8
+    },
+    {
+      "MSSV": 19424064,
+      "Họ Tên": "Lê Ngọc Vinh",
+      "+": 2,
+      "Report": 7,
+      "App": 7,
+      "LT": 5,
+      "TK": 6
+    },
+    {
+      "MSSV": 19424065,
+      "Họ Tên": "Trần Quang Vinh",
+      "+": 2,
+      "Report": 0,
+      "App": 0,
+      "LT": "",
+      "TK": 0
+    },
+    {
+      "MSSV": 19424066,
+      "Họ Tên": "Lê Tuấn Vũ",
+      "+": 2,
+      "Report": 8,
+      "App": 8,
+      "LT": 8.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 19424067,
+      "Họ Tên": "",
+      "+": 0,
+      "Report": "",
+      "App": "",
+      "LT": 6,
+      "TK": 2.5
+    },
+    {
+      "MSSV": 19424076,
+      "Họ Tên": "Trương Tường Vũ",
+      "+": 2,
+      "Report": 0,
+      "App": 0,
+      "LT": "",
+      "TK": 0
+    }
+  ]
+}
