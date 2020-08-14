@@ -73,7 +73,7 @@ var setupTable = function (table_element, columns, data) {
         return;
       }
 
-      if (value.length === 7) {
+      if (value.length === 8) {
         table.search(value).draw();
       } else {
         table.search(DEFAULT_SEARCH_TERM).draw();
