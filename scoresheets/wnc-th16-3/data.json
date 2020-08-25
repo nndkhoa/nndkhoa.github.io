@@ -1,0 +1,1017 @@
+{
+  "subj": "Phát triển ứng dụng Web nâng cao",
+  "class": "TH2016/3",
+  "lecturer": "GV: ThS. Ngô Ngọc Đăng Khoa",
+  "lastUpdate": "25/08/2020",
+  "cols": [
+    {
+      "data": "MSSV"
+    },
+    {
+      "data": "Họ tên",
+      "orderable": false
+    },
+    {
+      "data": "G-api",
+      "orderable": false
+    },
+    {
+      "data": "SPA",
+      "orderable": false
+    },
+    {
+      "data": "GK",
+      "orderable": false
+    },
+    {
+      "data": "CK",
+      "orderable": false
+    },
+    {
+      "data": "TK"
+    }
+  ],
+  "data": [
+    {
+      "MSSV": 1212193,
+      "Họ tên": "Lâm Duy Lạc",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 7.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 1312182,
+      "Họ tên": "Nguyễn Thanh Hậu",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1412002,
+      "Họ tên": "Dương Trường An",
+      "G-api": "",
+      "SPA": "",
+      "GK": "",
+      "CK": "",
+      "TK": 0
+    },
+    {
+      "MSSV": 1412011,
+      "Họ tên": "Nguyễn Hoàng Anh",
+      "G-api": "",
+      "SPA": "",
+      "GK": "",
+      "CK": "",
+      "TK": 0
+    },
+    {
+      "MSSV": 1412173,
+      "Họ tên": "Võ Xuân Hiển",
+      "G-api": 10,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 7.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 1412180,
+      "Họ tên": "Nguyễn Thái Hoàng",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 9.25,
+      "TK": 9
+    },
+    {
+      "MSSV": 1412182,
+      "Họ tên": "Phạm Minh Hoàng",
+      "G-api": "",
+      "SPA": "",
+      "GK": 0,
+      "CK": 0,
+      "TK": 0
+    },
+    {
+      "MSSV": 1512080,
+      "Họ tên": "Nguyễn Văn Dũng",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 9.25,
+      "TK": 9
+    },
+    {
+      "MSSV": 1512274,
+      "Họ tên": "Nguyễn Bá Kỳ",
+      "G-api": "",
+      "SPA": "",
+      "GK": 7,
+      "CK": 7.5,
+      "TK": 5
+    },
+    {
+      "MSSV": 1512300,
+      "Họ tên": "Huỳnh Lê Bảo Lộc",
+      "G-api": "",
+      "SPA": "",
+      "GK": 0,
+      "CK": 0,
+      "TK": 0
+    },
+    {
+      "MSSV": 1512388,
+      "Họ tên": "Nguyễn Trọng Nhơn",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 0,
+      "CK": 0,
+      "TK": 2.5
+    },
+    {
+      "MSSV": 1512633,
+      "Họ tên": "Đỗ Trần Anh Tuấn",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 9.25,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612001,
+      "Họ tên": "Hoàng Dân An",
+      "G-api": 8,
+      "SPA": 10,
+      "GK": 9,
+      "CK": 8.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612036,
+      "Họ tên": "Phạm Phú Quốc Bảo",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612037,
+      "Họ tên": "Đinh Thái Bảo",
+      "G-api": 8,
+      "SPA": 10,
+      "GK": 9,
+      "CK": 8.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612041,
+      "Họ tên": "Phan Hải Bình",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612047,
+      "Họ tên": "Trần Phước Chánh",
+      "G-api": "",
+      "SPA": 8,
+      "GK": "",
+      "CK": "",
+      "TK": 1
+    },
+    {
+      "MSSV": 1612058,
+      "Họ tên": "Nguyễn Hoàng Chương",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612069,
+      "Họ tên": "Trần Quốc Cường",
+      "G-api": "",
+      "SPA": 8,
+      "GK": "",
+      "CK": "",
+      "TK": 1
+    },
+    {
+      "MSSV": 1612074,
+      "Họ tên": "Phùng Trí Cường",
+      "G-api": "",
+      "SPA": 9,
+      "GK": 9,
+      "CK": 9,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1612086,
+      "Họ tên": "Nguyễn Thành Đạt",
+      "G-api": 10,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612091,
+      "Họ tên": "Phạm Vĩnh Đạt",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 7.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612092,
+      "Họ tên": "Nguyễn Quốc Đạt",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612104,
+      "Họ tên": "Nguyễn Hữu Điền",
+      "G-api": "",
+      "SPA": "",
+      "GK": 0,
+      "CK": 0,
+      "TK": 0
+    },
+    {
+      "MSSV": 1612112,
+      "Họ tên": "Lê Minh Đức",
+      "G-api": "",
+      "SPA": 8,
+      "GK": 7,
+      "CK": 8.25,
+      "TK": 6.5
+    },
+    {
+      "MSSV": 1612115,
+      "Họ tên": "Nguyễn Văn Đức",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612169,
+      "Họ tên": "Lưu Nhất Hàn",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 8,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612177,
+      "Họ tên": "Phan Văn Hậu",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 8,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612187,
+      "Họ tên": "Nguyễn Ngọc Hiển",
+      "G-api": 10,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 6,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612206,
+      "Họ tên": "Hồ Thiên Hổ",
+      "G-api": 10,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612209,
+      "Họ tên": "Nguyễn Hữu Hòa",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.25,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612210,
+      "Họ tên": "Phạm Ân Hòa",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.25,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612222,
+      "Họ tên": "Nguyễn Quang Huân",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 9,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612228,
+      "Họ tên": "Trần Sỹ Hùng",
+      "G-api": "",
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612231,
+      "Họ tên": "Quang Ngọc Hùng",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 7,
+      "CK": 9,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612234,
+      "Họ tên": "Trần Quốc Hưng",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 0,
+      "TK": 5
+    },
+    {
+      "MSSV": 1612262,
+      "Họ tên": "Nguyễn Song Hoàng Huy",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612263,
+      "Họ tên": "Nguyễn Quang Huy",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612285,
+      "Họ tên": "Dương Văn Khang",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612291,
+      "Họ tên": "Nguyễn Thị Ngân Khánh",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 7,
+      "CK": 9,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612311,
+      "Họ tên": "Đoàn Khuê",
+      "G-api": "",
+      "SPA": 8,
+      "GK": 10,
+      "CK": 10,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612324,
+      "Họ tên": "Nguyễn Thanh Lâm",
+      "G-api": "",
+      "SPA": 8,
+      "GK": 10,
+      "CK": 10,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612326,
+      "Họ tên": "Đặng Quang Lãm",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 0,
+      "CK": 0,
+      "TK": 2.5
+    },
+    {
+      "MSSV": 1612327,
+      "Họ tên": "Mai Văn Hoàng Lân",
+      "G-api": "",
+      "SPA": 8,
+      "GK": 0,
+      "CK": 0,
+      "TK": 1
+    },
+    {
+      "MSSV": 1612330,
+      "Họ tên": "Nguyễn Văn Lân",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.25,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612331,
+      "Họ tên": "Trần Thị Lạng",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 7,
+      "CK": 9,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612340,
+      "Họ tên": "Nguyễn Văn Linh",
+      "G-api": "",
+      "SPA": 8,
+      "GK": 10,
+      "CK": 10,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612352,
+      "Họ tên": "Nguyễn Hà Hoàng Long",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 7,
+      "CK": 9,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612363,
+      "Họ tên": "Tô Đồng Lưu",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612364,
+      "Họ tên": "Nguyễn Hoàng Lưu",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 7,
+      "CK": 9,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612380,
+      "Họ tên": "Phạm Hoàng Minh",
+      "G-api": 10,
+      "SPA": 8,
+      "GK": 7,
+      "CK": 7,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1612392,
+      "Họ tên": "Nguyễn Thị Hồng Mơ",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 9,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612404,
+      "Họ tên": "Nguyễn Vĩ Nam",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612426,
+      "Họ tên": "Hoàng Nghĩa",
+      "G-api": 10,
+      "SPA": 8,
+      "GK": 7,
+      "CK": 7,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1612427,
+      "Họ tên": "Nguyễn Xuân Nghiêm",
+      "G-api": "",
+      "SPA": 9,
+      "GK": 9,
+      "CK": 9,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1612429,
+      "Họ tên": "Lê Đình Ngọc",
+      "G-api": 8,
+      "SPA": 10,
+      "GK": 10,
+      "CK": 10,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1612434,
+      "Họ tên": "Lưu Tuấn Nguyên",
+      "G-api": 10,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 8,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612438,
+      "Họ tên": "Nguyễn Xuân Nguyên",
+      "G-api": 8,
+      "SPA": 10,
+      "GK": 10,
+      "CK": 10,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1612447,
+      "Họ tên": "Ngô Trần Nguyễn",
+      "G-api": "",
+      "SPA": 9,
+      "GK": 9,
+      "CK": 9,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1612454,
+      "Họ tên": "Lê Hữu Nhân",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612460,
+      "Họ tên": "Châu Văn Nhật",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612471,
+      "Họ tên": "Hoàng Thị Hoài Nhi",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 7,
+      "CK": 9,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612477,
+      "Họ tên": "Lê Minh Nhựt",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612491,
+      "Họ tên": "Hồ Hoàng Phát",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 8.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612496,
+      "Họ tên": "Tạ Thị Tú Phi",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 9,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612499,
+      "Họ tên": "Nguyễn Phong",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612500,
+      "Họ tên": "Lê Trung Phong",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612529,
+      "Họ tên": "Đặng Minh Quân",
+      "G-api": "",
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8,
+      "TK": 7
+    },
+    {
+      "MSSV": 1612533,
+      "Họ tên": "Nguyễn Trương Quang",
+      "G-api": 8,
+      "SPA": 10,
+      "GK": 9,
+      "CK": 9,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612538,
+      "Họ tên": "Bùi Phạm Đăng Quang",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 0,
+      "CK": 0,
+      "TK": 2.5
+    },
+    {
+      "MSSV": 1612539,
+      "Họ tên": "Lê Quốc Duy Quang",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 7.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612545,
+      "Họ tên": "Lê Phạm Hoàng Quý",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 7.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612548,
+      "Họ tên": "Nguyễn Thị Thu Quyền",
+      "G-api": 8,
+      "SPA": 10,
+      "GK": 9,
+      "CK": 9,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612556,
+      "Họ tên": "Nguyễn Hoàng Sang",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 9,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612557,
+      "Họ tên": "Lê Hoàng Sang",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 9,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612561,
+      "Họ tên": "Nguyễn Đức Bảo Sơn",
+      "G-api": "",
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8,
+      "TK": 7
+    },
+    {
+      "MSSV": 1612563,
+      "Họ tên": "Nguyễn Tấn Sơn",
+      "G-api": 8,
+      "SPA": 10,
+      "GK": 9,
+      "CK": 9,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612572,
+      "Họ tên": "Phạm Đình Sỹ",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612580,
+      "Họ tên": "Lâm Đức Tài",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 8.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612582,
+      "Họ tên": "Phạm Đỗ An Tâm",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612583,
+      "Họ tên": "Lê Thanh Tâm",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 9.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612587,
+      "Họ tên": "Lê Hoàng Minh Tâm",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612593,
+      "Họ tên": "Cao Minh Tân",
+      "G-api": "",
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8,
+      "TK": 7
+    },
+    {
+      "MSSV": 1612604,
+      "Họ tên": "Nguyễn Hoàng Thái",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612618,
+      "Họ tên": "Nguyễn Hữu Thắng",
+      "G-api": "",
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612626,
+      "Họ tên": "Võ Duy Thanh",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612664,
+      "Họ tên": "Vũ Đức Thịnh",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 8,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612669,
+      "Họ tên": "La Thoại",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 8,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612670,
+      "Họ tên": "Huỳnh Hữu Thời",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 8.5,
+      "CK": 9,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612674,
+      "Họ tên": "Nguyễn Minh Thông",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612679,
+      "Họ tên": "Nguyễn Thị Hoài Thương",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612680,
+      "Họ tên": "Dương Văn Thưởng",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 8.5,
+      "CK": 9,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612694,
+      "Họ tên": "Lâm Hửu Tiền",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 8,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612699,
+      "Họ tên": "Trương Đại Tín",
+      "G-api": 10,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 7.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612715,
+      "Họ tên": "Nguyễn Đức Trà",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8.75,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612722,
+      "Họ tên": "Nguyễn Thanh Trí",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8.75,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612732,
+      "Họ tên": "Lê Hồ Hữu Trí",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8.75,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612738,
+      "Họ tên": "Nguyễn Ngọc Khắc Triệu",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 8.5,
+      "CK": 9,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612745,
+      "Họ tên": "Hà Quang Trọng",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 9.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612759,
+      "Họ tên": "Trần Nguyễn Ngọc Trường",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 9.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612764,
+      "Họ tên": "Nguyễn Anh Tú",
+      "G-api": 8,
+      "SPA": 10,
+      "GK": 10,
+      "CK": 10,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1612776,
+      "Họ tên": "Phan Văn Anh Tuấn",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": "",
+      "CK": "",
+      "TK": 2.5
+    },
+    {
+      "MSSV": 1612785,
+      "Họ tên": "Đặng Thanh Tuấn",
+      "G-api": "",
+      "SPA": 8,
+      "GK": 10,
+      "CK": 10,
+      "TK": 8
+    },
+    {
+      "MSSV": 1612787,
+      "Họ tên": "Nguyễn Thanh Tuấn",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 8.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612793,
+      "Họ tên": "Lê Công Tuyền",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 8.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612798,
+      "Họ tên": "Hoàng Thị Cát Uyên",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 8.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612866,
+      "Họ tên": "Vũ Duy Khánh",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 9,
+      "CK": 8,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1612889,
+      "Họ tên": "Trần Đặng Nhật Tân",
+      "G-api": 8,
+      "SPA": 8,
+      "GK": 10,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1612893,
+      "Họ tên": "Phạm Nhựt Thanh",
+      "G-api": 10,
+      "SPA": 8,
+      "GK": 8,
+      "CK": 7.5,
+      "TK": 8
+    }
+  ]
+}
