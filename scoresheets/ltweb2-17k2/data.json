@@ -1,0 +1,903 @@
+{
+  "subj": "Lập trình Web 2",
+  "class": "17K2",
+  "lecturer": "GV: ThS. Ngô Ngọc Đăng Khoa",
+  "lastUpdate": "25/08/2020",
+  "cols": [
+    {
+      "data": "MSSV"
+    },
+    {
+      "data": "Họ tên",
+      "orderable": false
+    },
+    {
+      "data": "TH",
+      "orderable": false
+    },
+    {
+      "data": "CK",
+      "orderable": false
+    },
+    {
+      "data": "TK"
+    }
+  ],
+  "data": [
+    {
+      "MSSV": 1560240,
+      "Họ tên": "Trần Chí hữu",
+      "TH": "",
+      "CK": "",
+      "TK": 0
+    },
+    {
+      "MSSV": 1560510,
+      "Họ tên": "Nguyễn Ngọc Thái",
+      "TH": 8.5,
+      "CK": 7.25,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1560705,
+      "Họ tên": "Nguyễn Hoàng Lâm",
+      "TH": "",
+      "CK": 0,
+      "TK": 0
+    },
+    {
+      "MSSV": 1660029,
+      "Họ tên": "Phạm Trọng Bằng",
+      "TH": 9,
+      "CK": 7.25,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1660053,
+      "Họ tên": "Đào Lê Thiên Bình",
+      "TH": 9.5,
+      "CK": 7.25,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1660054,
+      "Họ tên": "Đỗ Văn Cẩm",
+      "TH": 6.5,
+      "CK": 6,
+      "TK": 6
+    },
+    {
+      "MSSV": 1660175,
+      "Họ tên": "Nguyễn Phúc Hậu",
+      "TH": 6.5,
+      "CK": 7.25,
+      "TK": 7
+    },
+    {
+      "MSSV": 1660196,
+      "Họ tên": "Đỗ Công Hiếu",
+      "TH": 2,
+      "CK": 5,
+      "TK": 4.5
+    },
+    {
+      "MSSV": 1660257,
+      "Họ tên": "Nguyễn Duy Khải",
+      "TH": 9.5,
+      "CK": "",
+      "TK": 2
+    },
+    {
+      "MSSV": 1660269,
+      "Họ tên": "Đinh Đăng Khoa",
+      "TH": 5,
+      "CK": 6,
+      "TK": 6
+    },
+    {
+      "MSSV": 1660326,
+      "Họ tên": "Võ Đức Long",
+      "TH": 3.5,
+      "CK": 4.5,
+      "TK": 4.5
+    },
+    {
+      "MSSV": 1660445,
+      "Họ tên": "Nguyễn Thanh Phú",
+      "TH": "",
+      "CK": 0,
+      "TK": 0
+    },
+    {
+      "MSSV": 1660744,
+      "Họ tên": "Đinh Thế Hiền Vương",
+      "TH": 9,
+      "CK": 9.5,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760001,
+      "Họ tên": "Trần Thành An",
+      "TH": 8.5,
+      "CK": 6.75,
+      "TK": 7
+    },
+    {
+      "MSSV": 1760031,
+      "Họ tên": "Hà Quang Diệu",
+      "TH": 1.5,
+      "CK": 0,
+      "TK": 0.5
+    },
+    {
+      "MSSV": 1760067,
+      "Họ tên": "Trương Trọng Hiếu",
+      "TH": 7.5,
+      "CK": 9.25,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760074,
+      "Họ tên": "Phạm Hồ Diễm Hương",
+      "TH": 1,
+      "CK": 6,
+      "TK": 5
+    },
+    {
+      "MSSV": 1760108,
+      "Họ tên": "Hoàng Lê Tuyết Minh",
+      "TH": "",
+      "CK": 0,
+      "TK": 0
+    },
+    {
+      "MSSV": 1760144,
+      "Họ tên": "Hồ Tấn Phát",
+      "TH": 2,
+      "CK": 6,
+      "TK": 5
+    },
+    {
+      "MSSV": 1760151,
+      "Họ tên": "Lưu Mạnh Quan",
+      "TH": 7.5,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760152,
+      "Họ tên": "Lê Văn Minh Quang",
+      "TH": 9,
+      "CK": 9.5,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760161,
+      "Họ tên": "Hồ Phước Sang",
+      "TH": "",
+      "CK": 6.75,
+      "TK": 5.5
+    },
+    {
+      "MSSV": 1760162,
+      "Họ tên": "Nguyễn Văn Sang",
+      "TH": 8,
+      "CK": 6.75,
+      "TK": 7
+    },
+    {
+      "MSSV": 1760167,
+      "Họ tên": "Bùi Văn Sơn",
+      "TH": "",
+      "CK": 0,
+      "TK": 0
+    },
+    {
+      "MSSV": 1760171,
+      "Họ tên": "Nguyễn Minh Tâm",
+      "TH": 8.5,
+      "CK": 9.25,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760172,
+      "Họ tên": "Trần Quốc Tân",
+      "TH": "",
+      "CK": 7.5,
+      "TK": 6
+    },
+    {
+      "MSSV": 1760173,
+      "Họ tên": "Hồ Văn Tấn",
+      "TH": "",
+      "CK": 6,
+      "TK": 5
+    },
+    {
+      "MSSV": 1760175,
+      "Họ tên": "Nguyễn Trọng Thái",
+      "TH": 4,
+      "CK": 6,
+      "TK": 5.5
+    },
+    {
+      "MSSV": 1760176,
+      "Họ tên": "Trần Thị Hồng Thắm",
+      "TH": 2.5,
+      "CK": 7.5,
+      "TK": 6.5
+    },
+    {
+      "MSSV": 1760180,
+      "Họ tên": "Võ Toàn Thắng",
+      "TH": "",
+      "CK": 5.5,
+      "TK": 4.5
+    },
+    {
+      "MSSV": 1760184,
+      "Họ tên": "Trần Chí Thanh",
+      "TH": "",
+      "CK": 6.75,
+      "TK": 5.5
+    },
+    {
+      "MSSV": 1760187,
+      "Họ tên": "Nguyễn Tiến Thành",
+      "TH": 9.5,
+      "CK": 9.5,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760188,
+      "Họ tên": "Nguyễn Lê Anh Thi",
+      "TH": 8.5,
+      "CK": 10,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760189,
+      "Họ tên": "Võ Sĩ Thiên",
+      "TH": 9.5,
+      "CK": 9.25,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760190,
+      "Họ tên": "Phạm Quang Thiện",
+      "TH": 5.5,
+      "CK": 9.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1760191,
+      "Họ tên": "Huỳnh Kiều Thịnh",
+      "TH": 3,
+      "CK": 6,
+      "TK": 5.5
+    },
+    {
+      "MSSV": 1760193,
+      "Họ tên": "Nguyễn Văn Thịnh",
+      "TH": "",
+      "CK": 0,
+      "TK": 0
+    },
+    {
+      "MSSV": 1760194,
+      "Họ tên": "Vũ Xuân Thịnh",
+      "TH": 6.5,
+      "CK": "",
+      "TK": 1.5
+    },
+    {
+      "MSSV": 1760197,
+      "Họ tên": "Nguyễn Văn Thông",
+      "TH": 7.5,
+      "CK": 9.25,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760198,
+      "Họ tên": "Trần Duy Thông",
+      "TH": 5.5,
+      "CK": 5,
+      "TK": 5
+    },
+    {
+      "MSSV": 1760201,
+      "Họ tên": "Lê Văn Thuận",
+      "TH": 1,
+      "CK": "",
+      "TK": 0
+    },
+    {
+      "MSSV": 1760202,
+      "Họ tên": "Nguyễn Minh Thuận",
+      "TH": 9.5,
+      "CK": 5,
+      "TK": 6
+    },
+    {
+      "MSSV": 1760205,
+      "Họ tên": "Võ Trần Thuyết",
+      "TH": 3.5,
+      "CK": 5.5,
+      "TK": 5
+    },
+    {
+      "MSSV": 1760206,
+      "Họ tên": "Lâm Thùy Tiên",
+      "TH": 1,
+      "CK": 7,
+      "TK": 6
+    },
+    {
+      "MSSV": 1760214,
+      "Họ tên": "Lương Thị Huyền Trang",
+      "TH": 6,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760215,
+      "Họ tên": "Đặng Ngọc Trí",
+      "TH": "",
+      "CK": 7,
+      "TK": 5.5
+    },
+    {
+      "MSSV": 1760220,
+      "Họ tên": "Phạm Quang Trung",
+      "TH": 6,
+      "CK": 8.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 1760221,
+      "Họ tên": "Trần Quốc Trung",
+      "TH": 7,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760223,
+      "Họ tên": "Kim Nhựt Trường",
+      "TH": 8.5,
+      "CK": 9.5,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760224,
+      "Họ tên": "Lê Anh Trường",
+      "TH": 3,
+      "CK": 7.5,
+      "TK": 6.5
+    },
+    {
+      "MSSV": 1760227,
+      "Họ tên": "Nguyễn Sanh Tuấn",
+      "TH": 9,
+      "CK": 9.5,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760230,
+      "Họ tên": "Trương Như Tuấn",
+      "TH": 7,
+      "CK": 10,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760233,
+      "Họ tên": "Đặng Thanh Tùng",
+      "TH": "",
+      "CK": 0,
+      "TK": 0
+    },
+    {
+      "MSSV": 1760236,
+      "Họ tên": "Lâm Nhật Ty",
+      "TH": 4,
+      "CK": 8.5,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1760241,
+      "Họ tên": "Lưu Thiên Vĩ",
+      "TH": 1,
+      "CK": "",
+      "TK": 0
+    },
+    {
+      "MSSV": 1760250,
+      "Họ tên": "Lê Trung Thiên",
+      "TH": 1,
+      "CK": 0,
+      "TK": 0
+    },
+    {
+      "MSSV": 1760253,
+      "Họ tên": "Bùi Hồng Ân",
+      "TH": 2,
+      "CK": 10,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1760254,
+      "Họ tên": "Lê Ngọc Ân",
+      "TH": 9,
+      "CK": 9.5,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760255,
+      "Họ tên": "",
+      "TH": "",
+      "CK": "",
+      "TK": 0
+    },
+    {
+      "MSSV": 1760257,
+      "Họ tên": "Trần Bảo Ân",
+      "TH": 0,
+      "CK": 8.5,
+      "TK": 7
+    },
+    {
+      "MSSV": 1760259,
+      "Họ tên": "Hồ Bảo Anh",
+      "TH": 5,
+      "CK": 9.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1760263,
+      "Họ tên": "Phạm Thiên Bảo",
+      "TH": 0.5,
+      "CK": 9.25,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1760265,
+      "Họ tên": "Nguyễn Thanh Bình",
+      "TH": 4,
+      "CK": 5,
+      "TK": 5
+    },
+    {
+      "MSSV": 1760267,
+      "Họ tên": "Nguyễn Quốc Cảnh",
+      "TH": 2,
+      "CK": 9.25,
+      "TK": 8
+    },
+    {
+      "MSSV": 1760271,
+      "Họ tên": "Phan Thế Công",
+      "TH": 8,
+      "CK": 8.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1760273,
+      "Họ tên": "Dương Mạnh Cường",
+      "TH": 7,
+      "CK": 9.25,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760275,
+      "Họ tên": "Nguyễn Thanh Đạm",
+      "TH": 3.5,
+      "CK": 9.25,
+      "TK": 8
+    },
+    {
+      "MSSV": 1760278,
+      "Họ tên": "Phan Vũ Thanh Đạo",
+      "TH": 7.5,
+      "CK": 10,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760280,
+      "Họ tên": "Phạm Nguyễn Mỹ Diễm",
+      "TH": 8.5,
+      "CK": 10,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760281,
+      "Họ tên": "Hồ Thảo Diệu",
+      "TH": 9.5,
+      "CK": 10,
+      "TK": 10
+    },
+    {
+      "MSSV": 1760282,
+      "Họ tên": "Nguyễn Thị Hiền Diệu",
+      "TH": 1.5,
+      "CK": 6,
+      "TK": 5
+    },
+    {
+      "MSSV": 1760286,
+      "Họ tên": "Nguyễn Bá Đức",
+      "TH": 7,
+      "CK": 8.75,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1760287,
+      "Họ tên": "Nguyễn Hữu Đức",
+      "TH": 7,
+      "CK": 8.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 1760288,
+      "Họ tên": "Đào Đình Dũng",
+      "TH": 10,
+      "CK": 10,
+      "TK": 10
+    },
+    {
+      "MSSV": 1760290,
+      "Họ tên": "Nguyễn Thanh Dương",
+      "TH": 3,
+      "CK": 8.5,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1760291,
+      "Họ tên": "Bùi Thanh Duy",
+      "TH": 3,
+      "CK": 8.75,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1760295,
+      "Họ tên": "Trần Hoàng Duy",
+      "TH": 7.5,
+      "CK": 9.25,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760297,
+      "Họ tên": "Võ Phúc Duy",
+      "TH": 8.5,
+      "CK": 0,
+      "TK": 1.5
+    },
+    {
+      "MSSV": 1760300,
+      "Họ tên": "Huỳnh Thanh Hải",
+      "TH": 8.5,
+      "CK": 8,
+      "TK": 8
+    },
+    {
+      "MSSV": 1760302,
+      "Họ tên": "Phạm Thị Ngọc Hạnh",
+      "TH": 9,
+      "CK": 10,
+      "TK": 10
+    },
+    {
+      "MSSV": 1760305,
+      "Họ tên": "Phan Đức Hậu",
+      "TH": 9,
+      "CK": 8.75,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760310,
+      "Họ tên": "Lê Ngọc Hiệp",
+      "TH": 9.5,
+      "CK": 8.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1760312,
+      "Họ tên": "Mai Xuân Hiếu",
+      "TH": 2.5,
+      "CK": 8,
+      "TK": 7
+    },
+    {
+      "MSSV": 1760315,
+      "Họ tên": "Trương Thái Minh Hiếu",
+      "TH": 9,
+      "CK": 8.5,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1760317,
+      "Họ tên": "Lê Quách Minh Hoàng",
+      "TH": "",
+      "CK": 0,
+      "TK": 0
+    },
+    {
+      "MSSV": 1760319,
+      "Họ tên": "Nguyễn Thái Học",
+      "TH": 7.5,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760321,
+      "Họ tên": "Nguyễn Trọng Hùng",
+      "TH": 9.5,
+      "CK": 7.5,
+      "TK": 8
+    },
+    {
+      "MSSV": 1760322,
+      "Họ tên": "Lê Phước Hưng",
+      "TH": 10,
+      "CK": 10,
+      "TK": 10
+    },
+    {
+      "MSSV": 1760323,
+      "Họ tên": "Trần Văn Hưng",
+      "TH": 7.5,
+      "CK": 8,
+      "TK": 8
+    },
+    {
+      "MSSV": 1760324,
+      "Họ tên": "Bùi Văn Huy",
+      "TH": 7.5,
+      "CK": 7,
+      "TK": 7
+    },
+    {
+      "MSSV": 1760326,
+      "Họ tên": "Nguyễn Hoàng Huy",
+      "TH": 5,
+      "CK": 5.5,
+      "TK": 5.5
+    },
+    {
+      "MSSV": 1760326,
+      "Họ tên": "",
+      "TH": 5,
+      "CK": "",
+      "TK": 1
+    },
+    {
+      "MSSV": 1760330,
+      "Họ tên": "Đỗ Công Khải",
+      "TH": 8,
+      "CK": 9,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760335,
+      "Họ tên": "Bùi Đăng Khoa",
+      "TH": 8.5,
+      "CK": 10,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760339,
+      "Họ tên": "Lâm Ngọc Khôi",
+      "TH": 7.5,
+      "CK": 7,
+      "TK": 7
+    },
+    {
+      "MSSV": 1760340,
+      "Họ tên": "Phạm Đình Khôi",
+      "TH": 0.5,
+      "CK": 2,
+      "TK": 1.5
+    },
+    {
+      "MSSV": 1760341,
+      "Họ tên": "Trần Minh Khôi",
+      "TH": 8.5,
+      "CK": 6,
+      "TK": 6.5
+    },
+    {
+      "MSSV": 1760342,
+      "Họ tên": "Nguyễn Khương",
+      "TH": 8.5,
+      "CK": 6,
+      "TK": 6.5
+    },
+    {
+      "MSSV": 1760343,
+      "Họ tên": "Nguyễn Anh Khương",
+      "TH": 9,
+      "CK": 9.5,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760345,
+      "Họ tên": "Đỗ Tuấn Kiệt",
+      "TH": 8.5,
+      "CK": 7,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1760346,
+      "Họ tên": "Hồng Quốc Lâm",
+      "TH": 8,
+      "CK": 9.25,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760357,
+      "Họ tên": "Nguyễn Thành Long",
+      "TH": 9.5,
+      "CK": 9.5,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760358,
+      "Họ tên": "Phạm Gia Long",
+      "TH": 2.5,
+      "CK": 5.5,
+      "TK": 5
+    },
+    {
+      "MSSV": 1760361,
+      "Họ tên": "Vũ Văn Lương",
+      "TH": 1.5,
+      "CK": 0,
+      "TK": 0.5
+    },
+    {
+      "MSSV": 1760367,
+      "Họ tên": "Trần Phương Nam",
+      "TH": 9.5,
+      "CK": 8.75,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760375,
+      "Họ tên": "Nguyễn Văn Nhật",
+      "TH": 9,
+      "CK": 8.75,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760377,
+      "Họ tên": "Võ Ngọc Huyền Như",
+      "TH": 6.5,
+      "CK": "",
+      "TK": 1.5
+    },
+    {
+      "MSSV": 1760387,
+      "Họ tên": "Nguyễn Thanh Phong",
+      "TH": 7,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760393,
+      "Họ tên": "Đào Ánh Phượng",
+      "TH": 8,
+      "CK": 8.75,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1760404,
+      "Họ tên": "Nguyễn Minh Sang",
+      "TH": 9.5,
+      "CK": 8,
+      "TK": 8.5
+    },
+    {
+      "MSSV": 1760407,
+      "Họ tên": "Hồ Văn Sơn",
+      "TH": 9.5,
+      "CK": 10,
+      "TK": 10
+    },
+    {
+      "MSSV": 1760408,
+      "Họ tên": "Nguyễn Đức Tài",
+      "TH": 4.5,
+      "CK": 7,
+      "TK": 6.5
+    },
+    {
+      "MSSV": 1760410,
+      "Họ tên": "Nguyễn Hoàng Tâm",
+      "TH": "",
+      "CK": 7.5,
+      "TK": 6
+    },
+    {
+      "MSSV": 1760413,
+      "Họ tên": "Lê Văn Nhật Tân",
+      "TH": 6,
+      "CK": 8,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1760422,
+      "Họ tên": "La Chí Thành",
+      "TH": 7.5,
+      "CK": 9.5,
+      "TK": 9
+    },
+    {
+      "MSSV": 1760427,
+      "Họ tên": "Nguyễn Duy Thiên",
+      "TH": 4.5,
+      "CK": 8,
+      "TK": 7.5
+    },
+    {
+      "MSSV": 1760428,
+      "Họ tên": "Ngô Tiến Thiện",
+      "TH": 8,
+      "CK": 10,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760443,
+      "Họ tên": "Trần Trung Tín",
+      "TH": 4,
+      "CK": 8,
+      "TK": 7
+    },
+    {
+      "MSSV": 1760447,
+      "Họ tên": "Nguyễn Thành Trí",
+      "TH": 3.5,
+      "CK": 0,
+      "TK": 0.5
+    },
+    {
+      "MSSV": 1760448,
+      "Họ tên": "Trần Trọng Trí",
+      "TH": 3,
+      "CK": 6,
+      "TK": 5.5
+    },
+    {
+      "MSSV": 1760453,
+      "Họ tên": "Nguyễn Xuân Trường",
+      "TH": 3,
+      "CK": 7.5,
+      "TK": 6.5
+    },
+    {
+      "MSSV": 1760455,
+      "Họ tên": "Đinh Hiền Tuấn",
+      "TH": 10,
+      "CK": 9.25,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760458,
+      "Họ tên": "Trần Minh Tuấn",
+      "TH": "",
+      "CK": 0,
+      "TK": 0
+    },
+    {
+      "MSSV": 1760464,
+      "Họ tên": "Lương Thế Vinh",
+      "TH": 9.5,
+      "CK": 9.5,
+      "TK": 9.5
+    },
+    {
+      "MSSV": 1760465,
+      "Họ tên": "Nguyễn Quốc Vinh",
+      "TH": 9,
+      "CK": 9.5,
+      "TK": 9.5
+    }
+  ]
+}
