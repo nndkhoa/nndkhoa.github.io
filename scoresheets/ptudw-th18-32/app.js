@@ -1,4 +1,4 @@
-var DATA_PATH = 'data.json?v=0.1';
+var DATA_PATH = 'data.json?v=0.1.1';
 var DEFAULT_SEARCH_TERM = 'MSSV';
 
 var getLangConfig = function () {
