@@ -73,8 +73,8 @@ var setupTable = function (table_element, columns, data) {
         return;
       }
 
-      if (value.length === 7) {
-        table.search(value).draw();
+      if (value.length >= 7) {
+        table.rows().search('\\b' + value + '\\b', true, false).draw();
       } else {
         table.search(DEFAULT_SEARCH_TERM).draw();
       }
