@@ -1,0 +1,320 @@
+{
+  "subj": "Phát triển ứng dụng Web",
+  "class": "18TN",
+  "lecturer": "GV: ThS. Ngô Ngọc Đăng Khoa",
+  "lastUpdate": "30/08/2021",
+  "cols": [
+    {
+      "data": "MSSV"
+    },
+    {
+      "data": "Họ Tên",
+      "orderable": false
+    },
+    {
+      "data": "GK",
+      "orderable": false
+    },
+    {
+      "data": "CK",
+      "orderable": false
+    },
+    {
+      "data": "BTCN",
+      "orderable": false
+    },
+    {
+      "data": "Final"
+    }
+  ],
+  "data": [
+    {
+      "MSSV": 18120143,
+      "Họ Tên": "Nguyễn Đình Hoàng Phúc",
+      "GK": 8.5,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120183,
+      "Họ Tên": "Trần Quang Huy",
+      "GK": 8.5,
+      "CK": 8.5,
+      "BTCN": 10,
+      "Final": 8.5
+    },
+    {
+      "MSSV": 18120117,
+      "Họ Tên": "Đoàn Phú Đức",
+      "GK": 8.5,
+      "CK": 9,
+      "BTCN": 10,
+      "Final": 9
+    },
+    {
+      "MSSV": 18120120,
+      "Họ Tên": "Trần Chí Hào",
+      "GK": 9.5,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18120109,
+      "Họ Tên": "Đoàn Văn Thanh An",
+      "GK": 8,
+      "CK": 8.5,
+      "BTCN": 10,
+      "Final": 8.5
+    },
+    {
+      "MSSV": 18120014,
+      "Họ Tên": "Đào Thành Đạt",
+      "GK": 9,
+      "CK": 9,
+      "BTCN": 10,
+      "Final": 9
+    },
+    {
+      "MSSV": 18120265,
+      "Họ Tên": "Nguyễn Thị Minh Vượng",
+      "GK": 10,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18120313,
+      "Họ Tên": "Trần Tuấn Đạt",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120007,
+      "Họ Tên": "Nguyễn Vi Tiểu Bảo",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120160,
+      "Họ Tên": "Hứa Huy Cường",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 9.6,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120116,
+      "Họ Tên": "Nguyễn Tiến Đạt",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120558,
+      "Họ Tên": "Võ Xuân Đức Thắng",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120197,
+      "Họ Tên": "Trương Trọng Lộc",
+      "GK": 8.75,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120230,
+      "Họ Tên": "Trần Thanh Quang",
+      "GK": 8.5,
+      "CK": 8.5,
+      "BTCN": 10,
+      "Final": 8.5
+    },
+    {
+      "MSSV": 18120153,
+      "Họ Tên": "Lê Quang Vũ",
+      "GK": 8.5,
+      "CK": 9,
+      "BTCN": 10,
+      "Final": 9
+    },
+    {
+      "MSSV": 18120147,
+      "Họ Tên": "Trần Quốc Thắng",
+      "GK": 9.5,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18120135,
+      "Họ Tên": "Phạm Trọng Long",
+      "GK": 8,
+      "CK": 8,
+      "BTCN": 10,
+      "Final": 8
+    },
+    {
+      "MSSV": 18120111,
+      "Họ Tên": "Trần Quốc Bảo",
+      "GK": 9,
+      "CK": 9,
+      "BTCN": 10,
+      "Final": 9
+    },
+    {
+      "MSSV": 18120377,
+      "Họ Tên": "Phan Long Hiếu",
+      "GK": 10,
+      "CK": 10,
+      "BTCN": 9.6,
+      "Final": 10
+    },
+    {
+      "MSSV": 18120495,
+      "Họ Tên": "Trương Trung Nhân",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120015,
+      "Họ Tên": "Trần Duy Đạt",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120569,
+      "Họ Tên": "Đỗ Hoàng Thế",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120137,
+      "Họ Tên": "Nguyễn Anh Minh",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120182,
+      "Họ Tên": "Lê Hồng Huy",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 9.6,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120052,
+      "Họ Tên": "Lê Hạnh Linh",
+      "GK": 8.5,
+      "CK": 10,
+      "BTCN": 9.6,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120336,
+      "Họ Tên": "Nguyễn Hoàng Thái Dương",
+      "GK": 8.5,
+      "CK": 8.5,
+      "BTCN": 10,
+      "Final": 8.5
+    },
+    {
+      "MSSV": 18120512,
+      "Họ Tên": "Lê Đặng Thiên Phúc",
+      "GK": 8.5,
+      "CK": 9,
+      "BTCN": 10,
+      "Final": 9
+    },
+    {
+      "MSSV": 18120624,
+      "Họ Tên": "Nguyễn Quốc Trung",
+      "GK": 9.5,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18120048,
+      "Họ Tên": "Nguyễn Minh Ký",
+      "GK": 8,
+      "CK": 8,
+      "BTCN": 10,
+      "Final": 8
+    },
+    {
+      "MSSV": 18120461,
+      "Họ Tên": "Võ Ngọc Mẫn",
+      "GK": 9,
+      "CK": 9,
+      "BTCN": 10,
+      "Final": 9
+    },
+    {
+      "MSSV": 18120616,
+      "Họ Tên": "Lê Thị Tuyết Trinh",
+      "GK": 10,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 10
+    },
+    {
+      "MSSV": 18120537,
+      "Họ Tên": "Nguyễn Thái Sơn",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120020,
+      "Họ Tên": "Phan Thái Dương",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120593,
+      "Họ Tên": "Trần Quang Tiến",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120127,
+      "Họ Tên": "Phan Đình Kha",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    },
+    {
+      "MSSV": 18120141,
+      "Họ Tên": "Trần Bảo Nguyên",
+      "GK": 9,
+      "CK": 10,
+      "BTCN": 10,
+      "Final": 9.5
+    }
+  ]
+}

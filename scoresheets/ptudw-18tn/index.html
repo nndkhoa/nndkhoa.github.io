@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Scoresheets</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.1.5/css/fixedHeader.bootstrap4.min.css">
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+  <div class="container h-100 mt-3 mb-3">
+    <div class="row h-100 justify-content-center">
+      <div class="col">
+        <div class="card shadow">
+          <div class="card-header">
+            <h5 id="title">
+              <span class="d-none d-lg-inline">Điểm môn học</span>
+              <span id="subj" class="text-primary"></span>
+              <span id="class" class="text-danger"></span>
+              <span id="lecturer" class="d-none d-lg-inline float-right text-muted"></span>
+            </h5>
+          </div>
+          <div class="card-body">
+            <div class="alert alert-primary" role="alert">
+              Nhập <b>MSSV</b> vào ô <b>Tìm kiếm</b> để tra cứu.
+            </div>
+            <div class="table-responsive">
+              <table id="myTable" class="table table-bordered table-hover"></table>
+            </div>
+          </div>
+          <div class="card-footer text-muted">
+            <span class="d-inline d-sm-none">FIT-HCMUS</span>
+            <span class="d-none d-sm-inline">Khoa CNTT - Đại học Khoa học Tự nhiên TP.HCM.</span>
+            <span class="float-right font-italic font-weight-light">
+              Cập nhật ngày
+              <span id="lastUpdate"></span>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+  <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+  <script src="https://cdn.datatables.net/fixedheader/3.1.5/js/dataTables.fixedHeader.min.js"></script>
+  <script src="app.js?v=1.1"></script>
+</body>
+
+</html>
