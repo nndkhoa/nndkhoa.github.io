@@ -1,0 +1,536 @@
+{
+  "subj": "Phát triển ứng dụng Web",
+  "class": "19KTPM/2",
+  "lecturer": "GV: ThS. Ngô Ngọc Đăng Khoa",
+  "lastUpdate": "15/02/2022",
+  "cols": [
+    {
+      "data": "ID"
+    },
+    {
+      "data": "Name",
+      "orderable": false
+    },
+    {
+      "data": "GK",
+      "orderable": false
+    },
+    {
+      "data": "CK",
+      "orderable": false
+    },
+    {
+      "data": "Bonus",
+      "orderable": false
+    },
+    {
+      "data": "Final"
+    }
+  ],
+  "data": [
+    {
+      "ID": 19127568,
+      "Name": "Nguyễn Thị Minh Thu",
+      "GK": 8.5,
+      "CK": 9.75,
+      "Bonus": 0,
+      "Final": 8,
+      "": 7.85
+    },
+    {
+      "ID": 19127055,
+      "Name": "Lê Vũ Minh Nhật",
+      "GK": 5,
+      "CK": 5.5,
+      "Bonus": 0,
+      "Final": 4.5,
+      "": 4.5
+    },
+    {
+      "ID": 19127203,
+      "Name": "Nguyễn Cao Thiên Long",
+      "GK": 9.5,
+      "CK": 10,
+      "Bonus": 0,
+      "Final": 8.5,
+      "": 8.325
+    },
+    {
+      "ID": 19127189,
+      "Name": "Hồ Lâm Bảo Khuyên",
+      "GK": 8.5,
+      "CK": 9.5,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.725
+    },
+    {
+      "ID": 19127095,
+      "Name": "Ngô Huy Anh",
+      "GK": 9,
+      "CK": 9.75,
+      "Bonus": 0,
+      "Final": 8,
+      "": 8.025
+    },
+    {
+      "ID": 19127422,
+      "Name": "Nguyễn Đức Huy",
+      "GK": 9.5,
+      "CK": 10,
+      "Bonus": 0,
+      "Final": 8.5,
+      "": 8.325
+    },
+    {
+      "ID": 19127387,
+      "Name": "Vũ Tuấn Hải",
+      "GK": 9.5,
+      "CK": 10,
+      "Bonus": 0,
+      "Final": 8.5,
+      "": 8.325
+    },
+    {
+      "ID": 19127383,
+      "Name": "Huỳnh Hoàng Giang",
+      "GK": 8.5,
+      "CK": 9.25,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.6
+    },
+    {
+      "ID": 19127541,
+      "Name": "Nguyễn Thái Sơn",
+      "GK": 9,
+      "CK": 8.5,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.4
+    },
+    {
+      "ID": 19127017,
+      "Name": "Trương Gia Đạt",
+      "GK": 8,
+      "CK": 9,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.3
+    },
+    {
+      "ID": 19127029,
+      "Name": "Nguyễn Tiến Hùng",
+      "GK": 7,
+      "CK": 7,
+      "Bonus": 0,
+      "Final": 6,
+      "": 5.95
+    },
+    {
+      "ID": 19127157,
+      "Name": "Lê Minh Huy",
+      "GK": 9,
+      "CK": 9.5,
+      "Bonus": 0,
+      "Final": 8,
+      "": 7.9
+    },
+    {
+      "ID": 19127108,
+      "Name": "Ngô Phú Chiến",
+      "GK": 8,
+      "CK": 8,
+      "Bonus": 0,
+      "Final": 7,
+      "": 6.8
+    },
+    {
+      "ID": 19127402,
+      "Name": "Nguyễn Mạnh Hiếu",
+      "GK": 8.5,
+      "CK": 8.5,
+      "Bonus": 0,
+      "Final": 7,
+      "": 7.225
+    },
+    {
+      "ID": 19127388,
+      "Name": "Bùi Nguyễn Nhật Hào",
+      "GK": 8,
+      "CK": 8.5,
+      "Bonus": 0,
+      "Final": 7,
+      "": 7.05
+    },
+    {
+      "ID": 19127546,
+      "Name": "Trần Hoàng Thái",
+      "GK": 8.5,
+      "CK": 9,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.475
+    },
+    {
+      "ID": 19127431,
+      "Name": "Đặng Duy Khang",
+      "GK": 9,
+      "CK": 9,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.65
+    },
+    {
+      "ID": 19127340,
+      "Name": "Trần Lê Quốc Bảo",
+      "GK": 7.5,
+      "CK": 8,
+      "Bonus": 0,
+      "Final": 6.5,
+      "": 6.625
+    },
+    {
+      "ID": 18127069,
+      "Name": "Võ Minh Châu",
+      "GK": "",
+      "CK": "",
+      "Bonus": 0,
+      "Final": 0,
+      "": 0
+    },
+    {
+      "ID": 19127641,
+      "Name": "Trần Trung Hiếu",
+      "GK": 8.5,
+      "CK": 9.75,
+      "Bonus": 0,
+      "Final": 8,
+      "": 7.85
+    },
+    {
+      "ID": 19127072,
+      "Name": "Nguyễn Năng Tiến",
+      "GK": 7.5,
+      "CK": 7.75,
+      "Bonus": 0,
+      "Final": 6.5,
+      "": 6.5
+    },
+    {
+      "ID": 19127268,
+      "Name": "Nguyễn Ngọc Thanh Tâm",
+      "GK": 9.5,
+      "CK": 10,
+      "Bonus": 2.5,
+      "Final": 8.5,
+      "": 8.7
+    },
+    {
+      "ID": 19127107,
+      "Name": "Nguyễn Thu Thảo Châu",
+      "GK": 8.5,
+      "CK": 9.5,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.725
+    },
+    {
+      "ID": 19127067,
+      "Name": "Hoàng Như Thanh",
+      "GK": 9,
+      "CK": 9.75,
+      "Bonus": 10,
+      "Final": 9.5,
+      "": 9.525
+    },
+    {
+      "ID": 19127563,
+      "Name": "Nguyễn Hoàng Thông",
+      "GK": 9.5,
+      "CK": 10,
+      "Bonus": 0,
+      "Final": 8.5,
+      "": 8.325
+    },
+    {
+      "ID": 19127610,
+      "Name": "Nguyễn Trần Ngọc Tú",
+      "GK": 9.5,
+      "CK": 10,
+      "Bonus": 0,
+      "Final": 8.5,
+      "": 8.325
+    },
+    {
+      "ID": 19127059,
+      "Name": "Lê Hoàng Phúc",
+      "GK": 8.5,
+      "CK": 9.25,
+      "Bonus": 2.5,
+      "Final": 8,
+      "": 7.975
+    },
+    {
+      "ID": 19127564,
+      "Name": "Nguyễn Hữu Thông",
+      "GK": 9,
+      "CK": 8.5,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.4
+    },
+    {
+      "ID": 19127401,
+      "Name": "Lê Trung Hiếu",
+      "GK": 8,
+      "CK": 9,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.3
+    },
+    {
+      "ID": 19127166,
+      "Name": "Huỳnh Tuấn Kha",
+      "GK": 7.5,
+      "CK": 8,
+      "Bonus": 0,
+      "Final": 6.5,
+      "": 6.625
+    },
+    {
+      "ID": 19127150,
+      "Name": "Nguyễn Hứa Hùng",
+      "GK": 9,
+      "CK": 9.5,
+      "Bonus": 0,
+      "Final": 8,
+      "": 7.9
+    },
+    {
+      "ID": 19127368,
+      "Name": "Hồ Ngọc Minh Đức",
+      "GK": 10,
+      "CK": 10,
+      "Bonus": 0,
+      "Final": 8.5,
+      "": 8.5
+    },
+    {
+      "ID": 19127419,
+      "Name": "Hoàng Minh Huy",
+      "GK": 8.5,
+      "CK": 8.5,
+      "Bonus": 0,
+      "Final": 7,
+      "": 7.225
+    },
+    {
+      "ID": 19127495,
+      "Name": "Lê Hoàng Nhật",
+      "GK": 8,
+      "CK": 8.5,
+      "Bonus": 0,
+      "Final": 7,
+      "": 7.05
+    },
+    {
+      "ID": 19127494,
+      "Name": "Đỗ Minh Nhật",
+      "GK": 8,
+      "CK": 8.5,
+      "Bonus": 0,
+      "Final": 7,
+      "": 7.05
+    },
+    {
+      "ID": 19127455,
+      "Name": "Nguyễn Vũ Duy Khương",
+      "GK": 9,
+      "CK": 9,
+      "Bonus": 2.5,
+      "Final": 8,
+      "": 8.025
+    },
+    {
+      "ID": 19127354,
+      "Name": "Lê Thành Đạt",
+      "GK": 7.5,
+      "CK": 8,
+      "Bonus": 0,
+      "Final": 6.5,
+      "": 6.625
+    },
+    {
+      "ID": 18127145,
+      "Name": "Vũ Thành Long",
+      "GK": "",
+      "CK": "",
+      "Bonus": 0,
+      "Final": 0,
+      "": 0
+    },
+    {
+      "ID": 19127646,
+      "Name": "Nguyễn Văn Tấn Phong",
+      "GK": 8.5,
+      "CK": 9.75,
+      "Bonus": 0,
+      "Final": 8,
+      "": 7.85
+    },
+    {
+      "ID": 19127317,
+      "Name": "Nguyễn Mạnh Vũ",
+      "GK": 7.5,
+      "CK": 7.75,
+      "Bonus": 0,
+      "Final": 6.5,
+      "": 6.5
+    },
+    {
+      "ID": 19127511,
+      "Name": "La Ngọc Hồng Phúc",
+      "GK": 9.5,
+      "CK": 10,
+      "Bonus": 2.5,
+      "Final": 8.5,
+      "": 8.7
+    },
+    {
+      "ID": 19127222,
+      "Name": "Nguyễn Hiếu Nghĩa",
+      "GK": 8.5,
+      "CK": 9.5,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.725
+    },
+    {
+      "ID": 19127514,
+      "Name": "Thái Trần Hồng Phúc",
+      "GK": 9,
+      "CK": 9.75,
+      "Bonus": 0,
+      "Final": 8,
+      "": 8.025
+    },
+    {
+      "ID": 19127588,
+      "Name": "Nguyễn Bảo Trâm",
+      "GK": 9.5,
+      "CK": 10,
+      "Bonus": 2.5,
+      "Final": 8.5,
+      "": 8.7
+    },
+    {
+      "ID": 19127624,
+      "Name": "Đỗ Đình Văn",
+      "GK": 9.5,
+      "CK": 10,
+      "Bonus": 0,
+      "Final": 8.5,
+      "": 8.325
+    },
+    {
+      "ID": 19127098,
+      "Name": "Phạm Ngọc Anh",
+      "GK": 8.5,
+      "CK": 9.25,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.6
+    },
+    {
+      "ID": 19127576,
+      "Name": "Phạm Đoàn Tiến",
+      "GK": 9,
+      "CK": 8.5,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.4
+    },
+    {
+      "ID": 19127437,
+      "Name": "Đinh Trọng Khánh",
+      "GK": 8,
+      "CK": 9,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.3
+    },
+    {
+      "ID": 19127565,
+      "Name": "Nguyễn Quốc Thông",
+      "GK": 7,
+      "CK": 7,
+      "Bonus": 0,
+      "Final": 6,
+      "": 5.95
+    },
+    {
+      "ID": 19127329,
+      "Name": "Lê Hoàng Anh",
+      "GK": 9,
+      "CK": 9.5,
+      "Bonus": 0,
+      "Final": 8,
+      "": 7.9
+    },
+    {
+      "ID": 19127491,
+      "Name": "Nguyễn Trọng Nhân",
+      "GK": 8,
+      "CK": 8,
+      "Bonus": 0,
+      "Final": 7,
+      "": 6.8
+    },
+    {
+      "ID": 19127600,
+      "Name": "Lê Quốc Trọng",
+      "GK": 8,
+      "CK": 8.5,
+      "Bonus": 0,
+      "Final": 7,
+      "": 7.05
+    },
+    {
+      "ID": 19127015,
+      "Name": "Huỳnh Tuấn Đạt",
+      "GK": 7.5,
+      "CK": 8,
+      "Bonus": 0,
+      "Final": 6.5,
+      "": 6.625
+    },
+    {
+      "ID": 19127470,
+      "Name": "Lê Nhật Minh",
+      "GK": 9,
+      "CK": 9,
+      "Bonus": 0,
+      "Final": 7.5,
+      "": 7.65
+    },
+    {
+      "ID": 19127636,
+      "Name": "Phạm Nguyễn Tường Vy",
+      "GK": 7.5,
+      "CK": 8,
+      "Bonus": 0,
+      "Final": 6.5,
+      "": 6.625
+    },
+    {
+      "ID": 18127100,
+      "Name": "Võ Chí Hiếu",
+      "GK": "",
+      "CK": "",
+      "Bonus": 0,
+      "Final": 0,
+      "": 0
+    }
+  ]
+}
