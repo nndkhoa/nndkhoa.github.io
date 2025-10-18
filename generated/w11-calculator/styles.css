@@ -1,0 +1,143 @@
+/* Windows 11 Calculator Styling */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.calculator-container {
+    user-select: none;
+}
+
+/* Display Styling */
+#display {
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+#expression {
+    min-height: 24px;
+}
+
+/* Button Base Styling */
+.calc-btn, .memory-btn {
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    border: none;
+    cursor: pointer;
+    transition: all 0.1s ease;
+    background-color: #f3f3f3;
+    color: #1a1a1a;
+    border-radius: 4px;
+}
+
+.calc-btn:hover {
+    background-color: #e5e5e5;
+}
+
+.calc-btn:active {
+    background-color: #d6d6d6;
+    transform: scale(0.98);
+}
+
+/* Memory Buttons */
+.memory-btn {
+    padding: 8px;
+    background-color: transparent;
+    color: #1a1a1a;
+    font-weight: 500;
+}
+
+.memory-btn:hover {
+    background-color: #e5e5e5;
+}
+
+.memory-btn:active {
+    background-color: #d6d6d6;
+}
+
+.memory-btn.disabled {
+    color: #999;
+    cursor: not-allowed;
+}
+
+.memory-btn.disabled:hover {
+    background-color: transparent;
+}
+
+/* Number Buttons */
+.number-btn {
+    background-color: #f9f9f9;
+    color: #1a1a1a;
+    font-weight: 500;
+}
+
+.number-btn:hover {
+    background-color: #e8e8e8;
+}
+
+/* Function Buttons */
+.function-btn {
+    background-color: #f3f3f3;
+    color: #1a1a1a;
+}
+
+.function-btn:hover {
+    background-color: #e5e5e5;
+}
+
+/* Operator Buttons */
+.operator-btn {
+    background-color: #f3f3f3;
+    color: #1a1a1a;
+    font-size: 20px;
+}
+
+.operator-btn:hover {
+    background-color: #e5e5e5;
+}
+
+.operator-btn.active {
+    background-color: #e0e0e0;
+    border: 1px solid #d0d0d0;
+}
+
+/* Equals Button */
+.equals-btn {
+    background-color: #0067c0;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.equals-btn:hover {
+    background-color: #005a9e;
+}
+
+.equals-btn:active {
+    background-color: #004d84;
+}
+
+/* Responsive Design */
+@media (max-width: 480px) {
+    .calculator-container {
+        width: 100% !important;
+        max-width: 320px;
+    }
+}
+
+/* Animation for button press */
+@keyframes buttonPress {
+    0% { transform: scale(1); }
+    50% { transform: scale(0.95); }
+    100% { transform: scale(1); }
+}
+
+.calc-btn:active, .memory-btn:active {
+    animation: buttonPress 0.1s ease;
+}
